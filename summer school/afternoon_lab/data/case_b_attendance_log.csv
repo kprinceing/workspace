@@ -1,0 +1,1826 @@
+applicant_id,session_date,session_number,session_type,training_center,hours_attended
+JB000001,2026-03-23,1,Orientation,North Center,4
+JB000001,2026-04-21,2,Skills workshop,North Center,6
+JB000001,2026-05-24,3,Job placement,North Center,6
+JB000002,2026-03-12,1,Orientation,North Center,4
+JB000005,2026-03-07,1,Orientation,North Center,4
+JB000007,2026-03-22,1,Orientation,North Center,4
+JB000008,2026-03-14,1,Orientation,North Center,4
+JB000008,2026-04-23,2,Skills workshop,North Center,6
+JB000008,2026-05-16,3,Job placement,North Center,6
+JB000009,2026-03-17,1,Orientation,North Center,4
+JB000009,2026-04-19,2,Skills workshop,North Center,6
+JB000010,2026-03-19,1,Orientation,North Center,4
+JB000010,2026-04-16,2,Skills workshop,North Center,6
+JB000012,2026-03-03,1,Orientation,North Center,4
+JB000016,2026-03-05,1,Orientation,North Center,4
+JB000018,2026-03-14,1,Orientation,North Center,4
+JB000023,2026-03-19,1,Orientation,North Center,4
+JB000024,2026-03-04,1,Orientation,North Center,4
+JB000026,2026-03-09,1,Orientation,North Center,4
+JB000028,2026-03-23,1,Orientation,North Center,4
+JB000030,2026-03-12,1,Orientation,North Center,4
+JB000031,2026-03-11,1,Orientation,North Center,4
+JB000037,2026-03-05,1,Orientation,North Center,4
+JB000037,2026-04-22,2,Skills workshop,North Center,6
+JB000038,2026-03-06,1,Orientation,North Center,4
+JB000043,2026-03-16,1,Orientation,North Center,4
+JB000043,2026-04-04,2,Skills workshop,North Center,6
+JB000044,2026-03-11,1,Orientation,North Center,4
+JB000047,2026-03-19,1,Orientation,North Center,4
+JB000052,2026-03-15,1,Orientation,North Center,4
+JB000053,2026-03-19,1,Orientation,North Center,4
+JB000054,2026-03-19,1,Orientation,North Center,4
+JB000054,2026-04-19,2,Skills workshop,North Center,6
+JB000055,2026-03-05,1,Orientation,North Center,4
+JB000060,2026-03-22,1,Orientation,North Center,4
+JB000061,2026-03-13,1,Orientation,North Center,4
+JB000061,2026-04-18,2,Skills workshop,North Center,6
+JB000062,2026-03-05,1,Orientation,North Center,4
+JB000067,2026-03-21,1,Orientation,North Center,4
+JB000070,2026-03-07,1,Orientation,North Center,4
+JB000071,2026-03-08,1,Orientation,North Center,4
+JB000073,2026-03-23,1,Orientation,North Center,4
+JB000074,2026-03-15,1,Orientation,North Center,4
+JB000074,2026-04-05,2,Skills workshop,North Center,6
+JB000074,2026-05-13,3,Job placement,North Center,6
+JB000076,2026-03-16,1,Orientation,North Center,4
+JB000078,2026-03-23,1,Orientation,North Center,4
+JB000079,2026-03-15,1,Orientation,North Center,4
+JB000080,2026-03-10,1,Orientation,North Center,4
+JB000081,2026-03-13,1,Orientation,North Center,4
+JB000082,2026-03-05,1,Orientation,North Center,4
+JB000083,2026-03-18,1,Orientation,North Center,4
+JB000088,2026-03-14,1,Orientation,North Center,4
+JB000088,2026-04-23,2,Skills workshop,North Center,6
+JB000091,2026-03-22,1,Orientation,North Center,4
+JB000091,2026-04-20,2,Skills workshop,North Center,6
+JB000092,2026-03-16,1,Orientation,North Center,4
+JB000093,2026-03-08,1,Orientation,North Center,4
+JB000095,2026-03-17,1,Orientation,North Center,4
+JB000096,2026-03-04,1,Orientation,North Center,4
+JB000097,2026-03-24,1,Orientation,North Center,4
+JB000097,2026-04-08,2,Skills workshop,North Center,6
+JB000099,2026-03-20,1,Orientation,North Center,4
+JB000099,2026-04-19,2,Skills workshop,North Center,6
+JB000101,2026-03-10,1,Orientation,North Center,4
+JB000105,2026-03-24,1,Orientation,North Center,4
+JB000106,2026-03-24,1,Orientation,North Center,4
+JB000107,2026-03-21,1,Orientation,North Center,4
+JB000107,2026-04-07,2,Skills workshop,North Center,6
+JB000107,2026-05-23,3,Job placement,North Center,6
+JB000108,2026-03-09,1,Orientation,North Center,4
+JB000112,2026-03-07,1,Orientation,North Center,4
+JB000119,2026-03-24,1,Orientation,North Center,4
+JB000121,2026-03-10,1,Orientation,North Center,4
+JB000121,2026-04-17,2,Skills workshop,North Center,6
+JB000122,2026-03-19,1,Orientation,North Center,4
+JB000122,2026-04-03,2,Skills workshop,North Center,6
+JB000127,2026-03-16,1,Orientation,North Center,4
+JB000128,2026-03-16,1,Orientation,North Center,4
+JB000129,2026-03-22,1,Orientation,North Center,4
+JB000131,2026-03-21,1,Orientation,North Center,4
+JB000131,2026-04-14,2,Skills workshop,North Center,6
+JB000133,2026-03-23,1,Orientation,North Center,4
+JB000137,2026-03-07,1,Orientation,North Center,4
+JB000138,2026-03-16,1,Orientation,North Center,4
+JB000138,2026-04-17,2,Skills workshop,North Center,6
+JB000139,2026-03-13,1,Orientation,North Center,4
+JB000144,2026-03-08,1,Orientation,North Center,4
+JB000145,2026-03-03,1,Orientation,North Center,4
+JB000145,2026-04-09,2,Skills workshop,North Center,6
+JB000145,2026-05-16,3,Job placement,North Center,6
+JB000146,2026-03-04,1,Orientation,North Center,4
+JB000147,2026-03-05,1,Orientation,North Center,4
+JB000148,2026-03-10,1,Orientation,North Center,4
+JB000149,2026-03-11,1,Orientation,North Center,4
+JB000149,2026-04-03,2,Skills workshop,North Center,6
+JB000151,2026-03-19,1,Orientation,North Center,4
+JB000153,2026-03-13,1,Orientation,North Center,4
+JB000153,2026-04-06,2,Skills workshop,North Center,6
+JB000155,2026-03-24,1,Orientation,North Center,4
+JB000158,2026-03-17,1,Orientation,North Center,4
+JB000159,2026-03-03,1,Orientation,North Center,4
+JB000159,2026-04-14,2,Skills workshop,North Center,6
+JB000159,2026-05-06,3,Job placement,North Center,6
+JB000163,2026-03-24,1,Orientation,North Center,4
+JB000166,2026-03-06,1,Orientation,North Center,4
+JB000167,2026-03-24,1,Orientation,North Center,4
+JB000167,2026-04-19,2,Skills workshop,North Center,6
+JB000168,2026-03-24,1,Orientation,North Center,4
+JB000170,2026-03-24,1,Orientation,North Center,4
+JB000170,2026-04-08,2,Skills workshop,North Center,6
+JB000170,2026-05-07,3,Job placement,North Center,6
+JB000173,2026-03-11,1,Orientation,North Center,4
+JB000176,2026-03-18,1,Orientation,North Center,4
+JB000181,2026-03-21,1,Orientation,North Center,4
+JB000182,2026-03-10,1,Orientation,North Center,4
+JB000183,2026-03-16,1,Orientation,North Center,4
+JB000184,2026-03-07,1,Orientation,North Center,4
+JB000185,2026-03-10,1,Orientation,North Center,4
+JB000185,2026-04-05,2,Skills workshop,North Center,6
+JB000188,2026-03-21,1,Orientation,North Center,4
+JB000193,2026-03-12,1,Orientation,North Center,4
+JB000194,2026-03-12,1,Orientation,North Center,4
+JB000198,2026-03-16,1,Orientation,North Center,4
+JB000201,2026-03-10,1,Orientation,North Center,4
+JB000203,2026-03-03,1,Orientation,North Center,4
+JB000203,2026-04-23,2,Skills workshop,North Center,6
+JB000203,2026-05-21,3,Job placement,North Center,6
+JB000204,2026-03-08,1,Orientation,North Center,4
+JB000206,2026-03-18,1,Orientation,North Center,4
+JB000206,2026-04-05,2,Skills workshop,North Center,6
+JB000209,2026-03-06,1,Orientation,North Center,4
+JB000209,2026-04-03,2,Skills workshop,North Center,6
+JB000209,2026-05-24,3,Job placement,North Center,6
+JB000213,2026-03-22,1,Orientation,North Center,4
+JB000215,2026-03-03,1,Orientation,North Center,4
+JB000219,2026-03-07,1,Orientation,North Center,4
+JB000219,2026-04-14,2,Skills workshop,North Center,6
+JB000220,2026-03-13,1,Orientation,North Center,4
+JB000224,2026-03-03,1,Orientation,North Center,4
+JB000226,2026-03-21,1,Orientation,North Center,4
+JB000229,2026-03-08,1,Orientation,North Center,4
+JB000231,2026-03-25,1,Orientation,North Center,4
+JB000231,2026-04-18,2,Skills workshop,North Center,6
+JB000232,2026-03-04,1,Orientation,North Center,4
+JB000233,2026-03-07,1,Orientation,North Center,4
+JB000234,2026-03-15,1,Orientation,North Center,4
+JB000235,2026-03-04,1,Orientation,North Center,4
+JB000235,2026-04-21,2,Skills workshop,North Center,6
+JB000235,2026-05-23,3,Job placement,North Center,6
+JB000237,2026-03-23,1,Orientation,North Center,4
+JB000237,2026-04-23,2,Skills workshop,North Center,6
+JB000238,2026-03-22,1,Orientation,North Center,4
+JB000239,2026-03-13,1,Orientation,North Center,4
+JB000240,2026-03-21,1,Orientation,North Center,4
+JB000240,2026-04-06,2,Skills workshop,North Center,6
+JB000241,2026-03-15,1,Orientation,North Center,4
+JB000242,2026-03-10,1,Orientation,North Center,4
+JB000243,2026-03-07,1,Orientation,North Center,4
+JB000243,2026-04-24,2,Skills workshop,North Center,6
+JB000243,2026-05-24,3,Job placement,North Center,6
+JB000245,2026-03-06,1,Orientation,North Center,4
+JB000246,2026-03-08,1,Orientation,North Center,4
+JB000249,2026-03-11,1,Orientation,North Center,4
+JB000251,2026-03-13,1,Orientation,North Center,4
+JB000251,2026-04-20,2,Skills workshop,North Center,6
+JB000251,2026-05-13,3,Job placement,North Center,6
+JB000255,2026-03-10,1,Orientation,North Center,4
+JB000256,2026-03-09,1,Orientation,North Center,4
+JB000259,2026-03-10,1,Orientation,North Center,4
+JB000261,2026-03-06,1,Orientation,North Center,4
+JB000262,2026-03-24,1,Orientation,North Center,4
+JB000267,2026-03-03,1,Orientation,North Center,4
+JB000268,2026-03-13,1,Orientation,North Center,4
+JB000269,2026-03-03,1,Orientation,North Center,4
+JB000270,2026-03-14,1,Orientation,North Center,4
+JB000272,2026-03-12,1,Orientation,North Center,4
+JB000278,2026-03-19,1,Orientation,North Center,4
+JB000278,2026-04-10,2,Skills workshop,North Center,6
+JB000279,2026-03-12,1,Orientation,North Center,4
+JB000281,2026-03-06,1,Orientation,North Center,4
+JB000281,2026-04-11,2,Skills workshop,North Center,6
+JB000281,2026-05-18,3,Job placement,North Center,6
+JB000282,2026-03-15,1,Orientation,North Center,4
+JB000282,2026-04-07,2,Skills workshop,North Center,6
+JB000283,2026-03-10,1,Orientation,North Center,4
+JB000284,2026-03-19,1,Orientation,North Center,4
+JB000285,2026-03-24,1,Orientation,North Center,4
+JB000285,2026-04-06,2,Skills workshop,North Center,6
+JB000286,2026-03-10,1,Orientation,North Center,4
+JB000287,2026-03-17,1,Orientation,North Center,4
+JB000288,2026-03-17,1,Orientation,North Center,4
+JB000291,2026-03-07,1,Orientation,North Center,4
+JB000292,2026-03-08,1,Orientation,North Center,4
+JB000292,2026-04-09,2,Skills workshop,North Center,6
+JB000292,2026-05-09,3,Job placement,North Center,6
+JB000293,2026-03-07,1,Orientation,North Center,4
+JB000295,2026-03-06,1,Orientation,North Center,4
+JB000296,2026-03-10,1,Orientation,North Center,4
+JB000297,2026-03-20,1,Orientation,North Center,4
+JB000300,2026-03-20,1,Orientation,North Center,4
+JB000303,2026-03-25,1,Orientation,North Center,4
+JB000304,2026-03-05,1,Orientation,North Center,4
+JB000311,2026-03-09,1,Orientation,North Center,4
+JB000312,2026-03-07,1,Orientation,North Center,4
+JB000312,2026-04-19,2,Skills workshop,North Center,6
+JB000313,2026-03-19,1,Orientation,North Center,4
+JB000314,2026-03-26,1,Orientation,North Center,4
+JB000315,2026-03-10,1,Orientation,North Center,4
+JB000317,2026-03-13,1,Orientation,North Center,4
+JB000317,2026-04-23,2,Skills workshop,North Center,6
+JB000321,2026-03-16,1,Orientation,North Center,4
+JB000324,2026-03-15,1,Orientation,North Center,4
+JB000326,2026-03-12,1,Orientation,North Center,4
+JB000327,2026-03-20,1,Orientation,North Center,4
+JB000328,2026-03-14,1,Orientation,North Center,4
+JB000328,2026-04-14,2,Skills workshop,North Center,6
+JB000329,2026-03-06,1,Orientation,North Center,4
+JB000329,2026-04-20,2,Skills workshop,North Center,6
+JB000331,2026-03-18,1,Orientation,North Center,4
+JB000335,2026-03-04,1,Orientation,North Center,4
+JB000335,2026-04-10,2,Skills workshop,North Center,6
+JB000335,2026-05-09,3,Job placement,North Center,6
+JB000344,2026-03-24,1,Orientation,North Center,4
+JB000344,2026-04-07,2,Skills workshop,North Center,6
+JB000348,2026-03-17,1,Orientation,North Center,4
+JB000350,2026-03-18,1,Orientation,North Center,4
+JB000353,2026-03-18,1,Orientation,North Center,4
+JB000354,2026-03-15,1,Orientation,North Center,4
+JB000359,2026-03-17,1,Orientation,North Center,4
+JB000360,2026-03-14,1,Orientation,North Center,4
+JB000360,2026-04-13,2,Skills workshop,North Center,6
+JB000362,2026-03-14,1,Orientation,North Center,4
+JB000362,2026-04-23,2,Skills workshop,North Center,6
+JB000362,2026-05-25,3,Job placement,North Center,6
+JB000363,2026-03-11,1,Orientation,North Center,4
+JB000364,2026-03-11,1,Orientation,North Center,4
+JB000368,2026-03-18,1,Orientation,North Center,4
+JB000369,2026-03-04,1,Orientation,North Center,4
+JB000371,2026-03-13,1,Orientation,North Center,4
+JB000373,2026-03-23,1,Orientation,North Center,4
+JB000375,2026-03-25,1,Orientation,North Center,4
+JB000375,2026-04-21,2,Skills workshop,North Center,6
+JB000375,2026-05-11,3,Job placement,North Center,6
+JB000378,2026-03-03,1,Orientation,North Center,4
+JB000378,2026-04-22,2,Skills workshop,North Center,6
+JB000384,2026-03-18,1,Orientation,North Center,4
+JB000385,2026-03-05,1,Orientation,North Center,4
+JB000388,2026-03-07,1,Orientation,North Center,4
+JB000389,2026-03-06,1,Orientation,North Center,4
+JB000393,2026-03-16,1,Orientation,North Center,4
+JB000395,2026-03-10,1,Orientation,North Center,4
+JB000396,2026-03-03,1,Orientation,North Center,4
+JB000398,2026-03-11,1,Orientation,North Center,4
+JB000399,2026-03-14,1,Orientation,North Center,4
+JB000399,2026-04-10,2,Skills workshop,North Center,6
+JB000400,2026-03-24,1,Orientation,North Center,4
+JB000401,2026-03-19,1,Orientation,North Center,4
+JB000401,2026-04-05,2,Skills workshop,North Center,6
+JB000401,2026-05-26,3,Job placement,North Center,6
+JB000414,2026-03-16,1,Orientation,North Center,4
+JB000416,2026-03-20,1,Orientation,North Center,4
+JB000417,2026-03-22,1,Orientation,North Center,4
+JB000418,2026-03-07,1,Orientation,North Center,4
+JB000421,2026-03-06,1,Orientation,North Center,4
+JB000431,2026-03-25,1,Orientation,North Center,4
+JB000436,2026-03-05,1,Orientation,North Center,4
+JB000439,2026-03-12,1,Orientation,North Center,4
+JB000447,2026-03-13,1,Orientation,North Center,4
+JB000448,2026-03-23,1,Orientation,North Center,4
+JB000448,2026-04-06,2,Skills workshop,North Center,6
+JB000453,2026-03-14,1,Orientation,North Center,4
+JB000454,2026-03-10,1,Orientation,North Center,4
+JB000456,2026-03-23,1,Orientation,North Center,4
+JB000457,2026-03-18,1,Orientation,North Center,4
+JB000458,2026-03-07,1,Orientation,North Center,4
+JB000460,2026-03-03,1,Orientation,North Center,4
+JB000461,2026-03-26,1,Orientation,North Center,4
+JB000464,2026-03-05,1,Orientation,North Center,4
+JB000465,2026-03-09,1,Orientation,North Center,4
+JB000465,2026-04-19,2,Skills workshop,North Center,6
+JB000469,2026-03-13,1,Orientation,North Center,4
+JB000470,2026-03-08,1,Orientation,North Center,4
+JB000471,2026-03-11,1,Orientation,North Center,4
+JB000473,2026-03-15,1,Orientation,North Center,4
+JB000473,2026-04-10,2,Skills workshop,North Center,6
+JB000474,2026-03-06,1,Orientation,North Center,4
+JB000478,2026-03-12,1,Orientation,North Center,4
+JB000480,2026-03-03,1,Orientation,North Center,4
+JB000482,2026-03-15,1,Orientation,North Center,4
+JB000482,2026-04-06,2,Skills workshop,North Center,6
+JB000483,2026-03-16,1,Orientation,North Center,4
+JB000485,2026-03-03,1,Orientation,North Center,4
+JB000486,2026-03-09,1,Orientation,North Center,4
+JB000488,2026-03-14,1,Orientation,North Center,4
+JB000489,2026-03-26,1,Orientation,North Center,4
+JB000490,2026-03-17,1,Orientation,North Center,4
+JB000490,2026-04-05,2,Skills workshop,North Center,6
+JB000492,2026-03-18,1,Orientation,North Center,4
+JB000498,2026-03-22,1,Orientation,North Center,4
+JB000500,2026-03-22,1,Orientation,North Center,4
+JB000501,2026-03-05,1,Orientation,North Center,4
+JB000506,2026-03-08,1,Orientation,North Center,4
+JB000508,2026-03-06,1,Orientation,North Center,4
+JB000509,2026-03-12,1,Orientation,North Center,4
+JB000509,2026-04-14,2,Skills workshop,North Center,6
+JB000510,2026-03-04,1,Orientation,North Center,4
+JB000510,2026-04-07,2,Skills workshop,North Center,6
+JB000515,2026-03-23,1,Orientation,North Center,4
+JB000516,2026-03-24,1,Orientation,North Center,4
+JB000516,2026-04-12,2,Skills workshop,North Center,6
+JB000517,2026-03-18,1,Orientation,North Center,4
+JB000519,2026-03-25,1,Orientation,North Center,4
+JB000521,2026-03-08,1,Orientation,North Center,4
+JB000521,2026-04-06,2,Skills workshop,North Center,6
+JB000522,2026-03-20,1,Orientation,North Center,4
+JB000525,2026-03-09,1,Orientation,North Center,4
+JB000529,2026-03-12,1,Orientation,North Center,4
+JB000530,2026-03-05,1,Orientation,North Center,4
+JB000532,2026-03-10,1,Orientation,North Center,4
+JB000532,2026-04-04,2,Skills workshop,North Center,6
+JB000533,2026-03-12,1,Orientation,North Center,4
+JB000535,2026-03-13,1,Orientation,North Center,4
+JB000536,2026-03-22,1,Orientation,North Center,4
+JB000540,2026-03-17,1,Orientation,North Center,4
+JB000540,2026-04-10,2,Skills workshop,North Center,6
+JB000541,2026-03-26,1,Orientation,North Center,4
+JB000543,2026-03-25,1,Orientation,North Center,4
+JB000543,2026-04-26,2,Skills workshop,North Center,6
+JB000543,2026-05-12,3,Job placement,North Center,6
+JB000544,2026-03-03,1,Orientation,North Center,4
+JB000545,2026-03-18,1,Orientation,North Center,4
+JB000547,2026-03-13,1,Orientation,North Center,4
+JB000548,2026-03-13,1,Orientation,North Center,4
+JB000548,2026-04-19,2,Skills workshop,North Center,6
+JB000550,2026-03-07,1,Orientation,North Center,4
+JB000552,2026-03-18,1,Orientation,North Center,4
+JB000554,2026-03-18,1,Orientation,North Center,4
+JB000556,2026-03-05,1,Orientation,North Center,4
+JB000559,2026-03-03,1,Orientation,North Center,4
+JB000559,2026-04-04,2,Skills workshop,North Center,6
+JB000559,2026-05-25,3,Job placement,North Center,6
+JB000562,2026-03-18,1,Orientation,North Center,4
+JB000562,2026-04-15,2,Skills workshop,North Center,6
+JB000562,2026-05-06,3,Job placement,North Center,6
+JB000566,2026-03-25,1,Orientation,North Center,4
+JB000567,2026-03-15,1,Orientation,North Center,4
+JB000572,2026-03-19,1,Orientation,North Center,4
+JB000574,2026-03-06,1,Orientation,North Center,4
+JB000575,2026-03-20,1,Orientation,North Center,4
+JB000578,2026-03-19,1,Orientation,North Center,4
+JB000583,2026-03-21,1,Orientation,North Center,4
+JB000584,2026-03-07,1,Orientation,North Center,4
+JB000584,2026-04-08,2,Skills workshop,North Center,6
+JB000584,2026-05-09,3,Job placement,North Center,6
+JB000586,2026-03-13,1,Orientation,North Center,4
+JB000588,2026-03-12,1,Orientation,North Center,4
+JB000590,2026-03-23,1,Orientation,North Center,4
+JB000591,2026-03-11,1,Orientation,North Center,4
+JB000595,2026-03-06,1,Orientation,North Center,4
+JB000596,2026-03-22,1,Orientation,North Center,4
+JB000596,2026-04-24,2,Skills workshop,North Center,6
+JB000598,2026-03-03,1,Orientation,North Center,4
+JB000598,2026-04-03,2,Skills workshop,North Center,6
+JB000601,2026-03-17,1,Orientation,East Center,4
+JB000604,2026-03-13,1,Orientation,East Center,4
+JB000605,2026-03-06,1,Orientation,East Center,4
+JB000608,2026-03-26,1,Orientation,East Center,4
+JB000608,2026-04-16,2,Skills workshop,East Center,6
+JB000609,2026-03-20,1,Orientation,East Center,4
+JB000609,2026-04-21,2,Skills workshop,East Center,6
+JB000611,2026-03-09,1,Orientation,East Center,4
+JB000612,2026-03-05,1,Orientation,East Center,4
+JB000612,2026-04-07,2,Skills workshop,East Center,6
+JB000613,2026-03-18,1,Orientation,East Center,4
+JB000615,2026-03-08,1,Orientation,East Center,4
+JB000619,2026-03-26,1,Orientation,East Center,4
+JB000620,2026-03-06,1,Orientation,East Center,4
+JB000621,2026-03-04,1,Orientation,East Center,4
+JB000621,2026-04-08,2,Skills workshop,East Center,6
+JB000621,2026-05-26,3,Job placement,East Center,6
+JB000622,2026-03-23,1,Orientation,East Center,4
+JB000622,2026-04-14,2,Skills workshop,East Center,6
+JB000622,2026-05-11,3,Job placement,East Center,6
+JB000626,2026-03-18,1,Orientation,East Center,4
+JB000629,2026-03-12,1,Orientation,East Center,4
+JB000630,2026-03-03,1,Orientation,East Center,4
+JB000636,2026-03-09,1,Orientation,East Center,4
+JB000638,2026-03-08,1,Orientation,East Center,4
+JB000638,2026-04-08,2,Skills workshop,East Center,6
+JB000640,2026-03-10,1,Orientation,East Center,4
+JB000640,2026-04-18,2,Skills workshop,East Center,6
+JB000643,2026-03-18,1,Orientation,East Center,4
+JB000648,2026-03-13,1,Orientation,East Center,4
+JB000651,2026-03-22,1,Orientation,East Center,4
+JB000653,2026-03-14,1,Orientation,East Center,4
+JB000653,2026-04-22,2,Skills workshop,East Center,6
+JB000656,2026-03-06,1,Orientation,East Center,4
+JB000656,2026-04-04,2,Skills workshop,East Center,6
+JB000658,2026-03-11,1,Orientation,East Center,4
+JB000659,2026-03-25,1,Orientation,East Center,4
+JB000660,2026-03-13,1,Orientation,East Center,4
+JB000660,2026-04-13,2,Skills workshop,East Center,6
+JB000661,2026-03-14,1,Orientation,East Center,4
+JB000661,2026-04-06,2,Skills workshop,East Center,6
+JB000661,2026-05-10,3,Job placement,East Center,6
+JB000662,2026-03-06,1,Orientation,East Center,4
+JB000662,2026-04-21,2,Skills workshop,East Center,6
+JB000663,2026-03-09,1,Orientation,East Center,4
+JB000663,2026-04-22,2,Skills workshop,East Center,6
+JB000663,2026-05-07,3,Job placement,East Center,6
+JB000664,2026-03-15,1,Orientation,East Center,4
+JB000664,2026-04-11,2,Skills workshop,East Center,6
+JB000665,2026-03-03,1,Orientation,East Center,4
+JB000669,2026-03-24,1,Orientation,East Center,4
+JB000670,2026-03-08,1,Orientation,East Center,4
+JB000674,2026-03-13,1,Orientation,East Center,4
+JB000674,2026-04-13,2,Skills workshop,East Center,6
+JB000676,2026-03-09,1,Orientation,East Center,4
+JB000677,2026-03-10,1,Orientation,East Center,4
+JB000679,2026-03-14,1,Orientation,East Center,4
+JB000680,2026-03-23,1,Orientation,East Center,4
+JB000682,2026-03-15,1,Orientation,East Center,4
+JB000682,2026-04-21,2,Skills workshop,East Center,6
+JB000683,2026-03-25,1,Orientation,East Center,4
+JB000687,2026-03-03,1,Orientation,East Center,4
+JB000688,2026-03-17,1,Orientation,East Center,4
+JB000688,2026-04-21,2,Skills workshop,East Center,6
+JB000692,2026-03-20,1,Orientation,East Center,4
+JB000695,2026-03-19,1,Orientation,East Center,4
+JB000697,2026-03-05,1,Orientation,East Center,4
+JB000698,2026-03-18,1,Orientation,East Center,4
+JB000700,2026-03-09,1,Orientation,East Center,4
+JB000704,2026-03-18,1,Orientation,East Center,4
+JB000706,2026-03-08,1,Orientation,East Center,4
+JB000709,2026-03-10,1,Orientation,East Center,4
+JB000711,2026-03-24,1,Orientation,East Center,4
+JB000714,2026-03-23,1,Orientation,East Center,4
+JB000714,2026-04-12,2,Skills workshop,East Center,6
+JB000716,2026-03-13,1,Orientation,East Center,4
+JB000717,2026-03-26,1,Orientation,East Center,4
+JB000717,2026-04-11,2,Skills workshop,East Center,6
+JB000721,2026-03-06,1,Orientation,East Center,4
+JB000723,2026-03-03,1,Orientation,East Center,4
+JB000724,2026-03-18,1,Orientation,East Center,4
+JB000729,2026-03-03,1,Orientation,East Center,4
+JB000730,2026-03-03,1,Orientation,East Center,4
+JB000731,2026-03-12,1,Orientation,East Center,4
+JB000732,2026-03-18,1,Orientation,East Center,4
+JB000738,2026-03-04,1,Orientation,East Center,4
+JB000738,2026-04-15,2,Skills workshop,East Center,6
+JB000742,2026-03-08,1,Orientation,East Center,4
+JB000744,2026-03-20,1,Orientation,East Center,4
+JB000744,2026-04-25,2,Skills workshop,East Center,6
+JB000746,2026-03-18,1,Orientation,East Center,4
+JB000746,2026-04-25,2,Skills workshop,East Center,6
+JB000748,2026-03-25,1,Orientation,East Center,4
+JB000750,2026-03-14,1,Orientation,East Center,4
+JB000751,2026-03-21,1,Orientation,East Center,4
+JB000754,2026-03-23,1,Orientation,East Center,4
+JB000757,2026-03-12,1,Orientation,East Center,4
+JB000760,2026-03-13,1,Orientation,East Center,4
+JB000760,2026-04-14,2,Skills workshop,East Center,6
+JB000761,2026-03-18,1,Orientation,East Center,4
+JB000762,2026-03-14,1,Orientation,East Center,4
+JB000764,2026-03-16,1,Orientation,East Center,4
+JB000764,2026-04-12,2,Skills workshop,East Center,6
+JB000766,2026-03-14,1,Orientation,East Center,4
+JB000768,2026-03-07,1,Orientation,East Center,4
+JB000769,2026-03-03,1,Orientation,East Center,4
+JB000770,2026-03-10,1,Orientation,East Center,4
+JB000770,2026-04-11,2,Skills workshop,East Center,6
+JB000771,2026-03-12,1,Orientation,East Center,4
+JB000772,2026-03-26,1,Orientation,East Center,4
+JB000773,2026-03-11,1,Orientation,East Center,4
+JB000774,2026-03-14,1,Orientation,East Center,4
+JB000777,2026-03-21,1,Orientation,East Center,4
+JB000780,2026-03-22,1,Orientation,East Center,4
+JB000780,2026-04-12,2,Skills workshop,East Center,6
+JB000782,2026-03-09,1,Orientation,East Center,4
+JB000784,2026-03-03,1,Orientation,East Center,4
+JB000787,2026-03-12,1,Orientation,East Center,4
+JB000788,2026-03-12,1,Orientation,East Center,4
+JB000789,2026-03-06,1,Orientation,East Center,4
+JB000791,2026-03-10,1,Orientation,East Center,4
+JB000794,2026-03-15,1,Orientation,East Center,4
+JB000795,2026-03-13,1,Orientation,East Center,4
+JB000798,2026-03-15,1,Orientation,East Center,4
+JB000799,2026-03-22,1,Orientation,East Center,4
+JB000799,2026-04-24,2,Skills workshop,East Center,6
+JB000800,2026-03-15,1,Orientation,East Center,4
+JB000802,2026-03-22,1,Orientation,East Center,4
+JB000802,2026-04-11,2,Skills workshop,East Center,6
+JB000804,2026-03-22,1,Orientation,East Center,4
+JB000807,2026-03-13,1,Orientation,East Center,4
+JB000807,2026-04-12,2,Skills workshop,East Center,6
+JB000807,2026-05-07,3,Job placement,East Center,6
+JB000808,2026-03-06,1,Orientation,East Center,4
+JB000812,2026-03-13,1,Orientation,East Center,4
+JB000813,2026-03-06,1,Orientation,East Center,4
+JB000814,2026-03-25,1,Orientation,East Center,4
+JB000817,2026-03-10,1,Orientation,East Center,4
+JB000817,2026-04-15,2,Skills workshop,East Center,6
+JB000817,2026-05-16,3,Job placement,East Center,6
+JB000819,2026-03-16,1,Orientation,East Center,4
+JB000822,2026-03-08,1,Orientation,East Center,4
+JB000823,2026-03-08,1,Orientation,East Center,4
+JB000823,2026-04-11,2,Skills workshop,East Center,6
+JB000824,2026-03-12,1,Orientation,East Center,4
+JB000824,2026-04-16,2,Skills workshop,East Center,6
+JB000831,2026-03-21,1,Orientation,East Center,4
+JB000833,2026-03-14,1,Orientation,East Center,4
+JB000834,2026-03-16,1,Orientation,East Center,4
+JB000835,2026-03-08,1,Orientation,East Center,4
+JB000835,2026-04-11,2,Skills workshop,East Center,6
+JB000838,2026-03-12,1,Orientation,East Center,4
+JB000840,2026-03-26,1,Orientation,East Center,4
+JB000842,2026-03-14,1,Orientation,East Center,4
+JB000847,2026-03-06,1,Orientation,East Center,4
+JB000848,2026-03-23,1,Orientation,East Center,4
+JB000852,2026-03-20,1,Orientation,East Center,4
+JB000855,2026-03-16,1,Orientation,East Center,4
+JB000856,2026-03-09,1,Orientation,East Center,4
+JB000864,2026-03-26,1,Orientation,East Center,4
+JB000864,2026-04-07,2,Skills workshop,East Center,6
+JB000864,2026-05-15,3,Job placement,East Center,6
+JB000865,2026-03-09,1,Orientation,East Center,4
+JB000869,2026-03-06,1,Orientation,East Center,4
+JB000872,2026-03-09,1,Orientation,East Center,4
+JB000873,2026-03-26,1,Orientation,East Center,4
+JB000876,2026-03-23,1,Orientation,East Center,4
+JB000878,2026-03-04,1,Orientation,East Center,4
+JB000879,2026-03-13,1,Orientation,East Center,4
+JB000881,2026-03-11,1,Orientation,East Center,4
+JB000882,2026-03-12,1,Orientation,East Center,4
+JB000883,2026-03-26,1,Orientation,East Center,4
+JB000884,2026-03-05,1,Orientation,East Center,4
+JB000884,2026-04-21,2,Skills workshop,East Center,6
+JB000886,2026-03-09,1,Orientation,East Center,4
+JB000887,2026-03-17,1,Orientation,East Center,4
+JB000890,2026-03-24,1,Orientation,East Center,4
+JB000891,2026-03-16,1,Orientation,East Center,4
+JB000892,2026-03-21,1,Orientation,East Center,4
+JB000892,2026-04-26,2,Skills workshop,East Center,6
+JB000901,2026-03-09,1,Orientation,East Center,4
+JB000902,2026-03-15,1,Orientation,East Center,4
+JB000903,2026-03-11,1,Orientation,East Center,4
+JB000904,2026-03-04,1,Orientation,East Center,4
+JB000907,2026-03-23,1,Orientation,East Center,4
+JB000908,2026-03-05,1,Orientation,East Center,4
+JB000910,2026-03-16,1,Orientation,East Center,4
+JB000913,2026-03-22,1,Orientation,East Center,4
+JB000915,2026-03-21,1,Orientation,East Center,4
+JB000916,2026-03-07,1,Orientation,East Center,4
+JB000916,2026-04-03,2,Skills workshop,East Center,6
+JB000918,2026-03-16,1,Orientation,East Center,4
+JB000920,2026-03-08,1,Orientation,East Center,4
+JB000920,2026-04-16,2,Skills workshop,East Center,6
+JB000921,2026-03-07,1,Orientation,East Center,4
+JB000922,2026-03-19,1,Orientation,East Center,4
+JB000923,2026-03-05,1,Orientation,East Center,4
+JB000924,2026-03-19,1,Orientation,East Center,4
+JB000925,2026-03-21,1,Orientation,East Center,4
+JB000926,2026-03-25,1,Orientation,East Center,4
+JB000926,2026-04-11,2,Skills workshop,East Center,6
+JB000927,2026-03-16,1,Orientation,East Center,4
+JB000931,2026-03-20,1,Orientation,East Center,4
+JB000931,2026-04-26,2,Skills workshop,East Center,6
+JB000938,2026-03-24,1,Orientation,East Center,4
+JB000939,2026-03-06,1,Orientation,East Center,4
+JB000944,2026-03-25,1,Orientation,East Center,4
+JB000946,2026-03-21,1,Orientation,East Center,4
+JB000948,2026-03-16,1,Orientation,East Center,4
+JB000957,2026-03-11,1,Orientation,East Center,4
+JB000957,2026-04-08,2,Skills workshop,East Center,6
+JB000960,2026-03-21,1,Orientation,East Center,4
+JB000961,2026-03-16,1,Orientation,East Center,4
+JB000962,2026-03-16,1,Orientation,East Center,4
+JB000964,2026-03-13,1,Orientation,East Center,4
+JB000966,2026-03-06,1,Orientation,East Center,4
+JB000967,2026-03-26,1,Orientation,East Center,4
+JB000968,2026-03-25,1,Orientation,East Center,4
+JB000968,2026-04-13,2,Skills workshop,East Center,6
+JB000968,2026-05-12,3,Job placement,East Center,6
+JB000969,2026-03-20,1,Orientation,East Center,4
+JB000970,2026-03-21,1,Orientation,East Center,4
+JB000970,2026-04-17,2,Skills workshop,East Center,6
+JB000970,2026-05-06,3,Job placement,East Center,6
+JB000971,2026-03-23,1,Orientation,East Center,4
+JB000974,2026-03-06,1,Orientation,East Center,4
+JB000976,2026-03-06,1,Orientation,East Center,4
+JB000980,2026-03-07,1,Orientation,East Center,4
+JB000982,2026-03-23,1,Orientation,East Center,4
+JB000984,2026-03-11,1,Orientation,East Center,4
+JB000991,2026-03-21,1,Orientation,East Center,4
+JB000992,2026-03-17,1,Orientation,East Center,4
+JB000994,2026-03-03,1,Orientation,East Center,4
+JB000995,2026-03-11,1,Orientation,East Center,4
+JB001005,2026-03-21,1,Orientation,East Center,4
+JB001005,2026-04-24,2,Skills workshop,East Center,6
+JB001007,2026-03-04,1,Orientation,East Center,4
+JB001009,2026-03-04,1,Orientation,East Center,4
+JB001009,2026-04-06,2,Skills workshop,East Center,6
+JB001009,2026-05-12,3,Job placement,East Center,6
+JB001010,2026-03-23,1,Orientation,East Center,4
+JB001012,2026-03-05,1,Orientation,East Center,4
+JB001013,2026-03-17,1,Orientation,East Center,4
+JB001014,2026-03-24,1,Orientation,East Center,4
+JB001019,2026-03-11,1,Orientation,East Center,4
+JB001020,2026-03-25,1,Orientation,East Center,4
+JB001020,2026-04-13,2,Skills workshop,East Center,6
+JB001024,2026-03-20,1,Orientation,East Center,4
+JB001025,2026-03-05,1,Orientation,East Center,4
+JB001027,2026-03-05,1,Orientation,East Center,4
+JB001027,2026-04-22,2,Skills workshop,East Center,6
+JB001030,2026-03-10,1,Orientation,East Center,4
+JB001031,2026-03-11,1,Orientation,East Center,4
+JB001032,2026-03-17,1,Orientation,East Center,4
+JB001033,2026-03-18,1,Orientation,East Center,4
+JB001034,2026-03-17,1,Orientation,East Center,4
+JB001036,2026-03-24,1,Orientation,East Center,4
+JB001038,2026-03-22,1,Orientation,East Center,4
+JB001040,2026-03-03,1,Orientation,East Center,4
+JB001040,2026-04-07,2,Skills workshop,East Center,6
+JB001041,2026-03-25,1,Orientation,East Center,4
+JB001042,2026-03-25,1,Orientation,East Center,4
+JB001043,2026-03-20,1,Orientation,East Center,4
+JB001043,2026-04-21,2,Skills workshop,East Center,6
+JB001051,2026-03-11,1,Orientation,East Center,4
+JB001055,2026-03-15,1,Orientation,East Center,4
+JB001058,2026-03-12,1,Orientation,East Center,4
+JB001059,2026-03-23,1,Orientation,East Center,4
+JB001063,2026-03-12,1,Orientation,East Center,4
+JB001068,2026-03-15,1,Orientation,East Center,4
+JB001068,2026-04-20,2,Skills workshop,East Center,6
+JB001073,2026-03-19,1,Orientation,East Center,4
+JB001073,2026-04-09,2,Skills workshop,East Center,6
+JB001074,2026-03-03,1,Orientation,East Center,4
+JB001074,2026-04-21,2,Skills workshop,East Center,6
+JB001078,2026-03-07,1,Orientation,East Center,4
+JB001078,2026-04-26,2,Skills workshop,East Center,6
+JB001080,2026-03-16,1,Orientation,East Center,4
+JB001080,2026-04-15,2,Skills workshop,East Center,6
+JB001080,2026-05-14,3,Job placement,East Center,6
+JB001081,2026-03-11,1,Orientation,East Center,4
+JB001082,2026-03-21,1,Orientation,East Center,4
+JB001083,2026-03-17,1,Orientation,East Center,4
+JB001087,2026-03-20,1,Orientation,East Center,4
+JB001088,2026-03-25,1,Orientation,East Center,4
+JB001089,2026-03-22,1,Orientation,East Center,4
+JB001090,2026-03-09,1,Orientation,East Center,4
+JB001090,2026-04-14,2,Skills workshop,East Center,6
+JB001092,2026-03-10,1,Orientation,East Center,4
+JB001097,2026-03-23,1,Orientation,East Center,4
+JB001098,2026-03-11,1,Orientation,East Center,4
+JB001099,2026-03-15,1,Orientation,East Center,4
+JB001100,2026-03-20,1,Orientation,East Center,4
+JB001100,2026-04-12,2,Skills workshop,East Center,6
+JB001101,2026-03-26,1,Orientation,East Center,4
+JB001102,2026-03-19,1,Orientation,East Center,4
+JB001103,2026-03-06,1,Orientation,East Center,4
+JB001103,2026-04-25,2,Skills workshop,East Center,6
+JB001104,2026-03-21,1,Orientation,East Center,4
+JB001106,2026-03-20,1,Orientation,East Center,4
+JB001107,2026-03-24,1,Orientation,East Center,4
+JB001108,2026-03-05,1,Orientation,East Center,4
+JB001108,2026-04-13,2,Skills workshop,East Center,6
+JB001109,2026-03-20,1,Orientation,East Center,4
+JB001111,2026-03-12,1,Orientation,East Center,4
+JB001113,2026-03-14,1,Orientation,East Center,4
+JB001115,2026-03-10,1,Orientation,East Center,4
+JB001118,2026-03-25,1,Orientation,East Center,4
+JB001118,2026-04-06,2,Skills workshop,East Center,6
+JB001119,2026-03-11,1,Orientation,East Center,4
+JB001122,2026-03-10,1,Orientation,East Center,4
+JB001122,2026-04-10,2,Skills workshop,East Center,6
+JB001123,2026-03-11,1,Orientation,East Center,4
+JB001124,2026-03-20,1,Orientation,East Center,4
+JB001124,2026-04-22,2,Skills workshop,East Center,6
+JB001124,2026-05-10,3,Job placement,East Center,6
+JB001126,2026-03-08,1,Orientation,East Center,4
+JB001130,2026-03-05,1,Orientation,East Center,4
+JB001130,2026-04-21,2,Skills workshop,East Center,6
+JB001134,2026-03-03,1,Orientation,East Center,4
+JB001135,2026-03-05,1,Orientation,East Center,4
+JB001136,2026-03-06,1,Orientation,East Center,4
+JB001138,2026-03-11,1,Orientation,East Center,4
+JB001139,2026-03-16,1,Orientation,East Center,4
+JB001142,2026-03-25,1,Orientation,East Center,4
+JB001142,2026-04-17,2,Skills workshop,East Center,6
+JB001147,2026-03-09,1,Orientation,East Center,4
+JB001148,2026-03-24,1,Orientation,East Center,4
+JB001149,2026-03-26,1,Orientation,East Center,4
+JB001152,2026-03-07,1,Orientation,East Center,4
+JB001152,2026-04-19,2,Skills workshop,East Center,6
+JB001152,2026-05-20,3,Job placement,East Center,6
+JB001153,2026-03-08,1,Orientation,East Center,4
+JB001155,2026-03-14,1,Orientation,East Center,4
+JB001157,2026-03-04,1,Orientation,East Center,4
+JB001159,2026-03-15,1,Orientation,East Center,4
+JB001159,2026-04-19,2,Skills workshop,East Center,6
+JB001161,2026-03-18,1,Orientation,East Center,4
+JB001166,2026-03-11,1,Orientation,East Center,4
+JB001168,2026-03-03,1,Orientation,East Center,4
+JB001169,2026-03-05,1,Orientation,East Center,4
+JB001171,2026-03-12,1,Orientation,East Center,4
+JB001172,2026-03-10,1,Orientation,East Center,4
+JB001174,2026-03-22,1,Orientation,East Center,4
+JB001174,2026-04-25,2,Skills workshop,East Center,6
+JB001175,2026-03-12,1,Orientation,East Center,4
+JB001176,2026-03-23,1,Orientation,East Center,4
+JB001177,2026-03-14,1,Orientation,East Center,4
+JB001180,2026-03-12,1,Orientation,East Center,4
+JB001180,2026-04-19,2,Skills workshop,East Center,6
+JB001180,2026-05-22,3,Job placement,East Center,6
+JB001181,2026-03-04,1,Orientation,East Center,4
+JB001182,2026-03-15,1,Orientation,East Center,4
+JB001184,2026-03-10,1,Orientation,East Center,4
+JB001190,2026-03-21,1,Orientation,East Center,4
+JB001191,2026-03-17,1,Orientation,East Center,4
+JB001197,2026-03-21,1,Orientation,East Center,4
+JB001199,2026-03-23,1,Orientation,East Center,4
+JB001200,2026-03-04,1,Orientation,East Center,4
+JB001201,2026-03-15,1,Orientation,Central Center,4
+JB001205,2026-03-15,1,Orientation,Central Center,4
+JB001209,2026-03-17,1,Orientation,Central Center,4
+JB001212,2026-03-06,1,Orientation,Central Center,4
+JB001212,2026-04-21,2,Skills workshop,Central Center,6
+JB001214,2026-03-08,1,Orientation,Central Center,4
+JB001216,2026-03-24,1,Orientation,Central Center,4
+JB001216,2026-04-16,2,Skills workshop,Central Center,6
+JB001223,2026-03-23,1,Orientation,Central Center,4
+JB001223,2026-04-05,2,Skills workshop,Central Center,6
+JB001224,2026-03-05,1,Orientation,Central Center,4
+JB001225,2026-03-21,1,Orientation,Central Center,4
+JB001227,2026-03-23,1,Orientation,Central Center,4
+JB001228,2026-03-24,1,Orientation,Central Center,4
+JB001231,2026-03-22,1,Orientation,Central Center,4
+JB001234,2026-03-06,1,Orientation,Central Center,4
+JB001234,2026-04-13,2,Skills workshop,Central Center,6
+JB001235,2026-03-05,1,Orientation,Central Center,4
+JB001235,2026-04-04,2,Skills workshop,Central Center,6
+JB001241,2026-03-03,1,Orientation,Central Center,4
+JB001242,2026-03-21,1,Orientation,Central Center,4
+JB001246,2026-03-03,1,Orientation,Central Center,4
+JB001250,2026-03-08,1,Orientation,Central Center,4
+JB001251,2026-03-04,1,Orientation,Central Center,4
+JB001252,2026-03-03,1,Orientation,Central Center,4
+JB001252,2026-04-04,2,Skills workshop,Central Center,6
+JB001253,2026-03-14,1,Orientation,Central Center,4
+JB001254,2026-03-22,1,Orientation,Central Center,4
+JB001259,2026-03-06,1,Orientation,Central Center,4
+JB001260,2026-03-05,1,Orientation,Central Center,4
+JB001260,2026-04-17,2,Skills workshop,Central Center,6
+JB001265,2026-03-18,1,Orientation,Central Center,4
+JB001266,2026-03-08,1,Orientation,Central Center,4
+JB001270,2026-03-14,1,Orientation,Central Center,4
+JB001276,2026-03-11,1,Orientation,Central Center,4
+JB001278,2026-03-08,1,Orientation,Central Center,4
+JB001282,2026-03-21,1,Orientation,Central Center,4
+JB001283,2026-03-18,1,Orientation,Central Center,4
+JB001285,2026-03-05,1,Orientation,Central Center,4
+JB001289,2026-03-14,1,Orientation,Central Center,4
+JB001292,2026-03-07,1,Orientation,Central Center,4
+JB001295,2026-03-04,1,Orientation,Central Center,4
+JB001297,2026-03-08,1,Orientation,Central Center,4
+JB001298,2026-03-06,1,Orientation,Central Center,4
+JB001302,2026-03-25,1,Orientation,Central Center,4
+JB001306,2026-03-14,1,Orientation,Central Center,4
+JB001307,2026-03-24,1,Orientation,Central Center,4
+JB001308,2026-03-23,1,Orientation,Central Center,4
+JB001313,2026-03-15,1,Orientation,Central Center,4
+JB001321,2026-03-08,1,Orientation,Central Center,4
+JB001323,2026-03-23,1,Orientation,Central Center,4
+JB001324,2026-03-12,1,Orientation,Central Center,4
+JB001326,2026-03-09,1,Orientation,Central Center,4
+JB001326,2026-04-23,2,Skills workshop,Central Center,6
+JB001332,2026-03-24,1,Orientation,Central Center,4
+JB001332,2026-04-22,2,Skills workshop,Central Center,6
+JB001335,2026-03-13,1,Orientation,Central Center,4
+JB001337,2026-03-23,1,Orientation,Central Center,4
+JB001337,2026-04-08,2,Skills workshop,Central Center,6
+JB001338,2026-03-19,1,Orientation,Central Center,4
+JB001339,2026-03-12,1,Orientation,Central Center,4
+JB001339,2026-04-05,2,Skills workshop,Central Center,6
+JB001344,2026-03-19,1,Orientation,Central Center,4
+JB001346,2026-03-08,1,Orientation,Central Center,4
+JB001347,2026-03-17,1,Orientation,Central Center,4
+JB001349,2026-03-11,1,Orientation,Central Center,4
+JB001352,2026-03-03,1,Orientation,Central Center,4
+JB001353,2026-03-15,1,Orientation,Central Center,4
+JB001354,2026-03-12,1,Orientation,Central Center,4
+JB001355,2026-03-04,1,Orientation,Central Center,4
+JB001356,2026-03-13,1,Orientation,Central Center,4
+JB001358,2026-03-25,1,Orientation,Central Center,4
+JB001360,2026-03-26,1,Orientation,Central Center,4
+JB001361,2026-03-21,1,Orientation,Central Center,4
+JB001363,2026-03-22,1,Orientation,Central Center,4
+JB001364,2026-03-06,1,Orientation,Central Center,4
+JB001364,2026-04-03,2,Skills workshop,Central Center,6
+JB001364,2026-05-22,3,Job placement,Central Center,6
+JB001365,2026-03-05,1,Orientation,Central Center,4
+JB001366,2026-03-04,1,Orientation,Central Center,4
+JB001366,2026-04-12,2,Skills workshop,Central Center,6
+JB001366,2026-05-11,3,Job placement,Central Center,6
+JB001369,2026-03-26,1,Orientation,Central Center,4
+JB001369,2026-04-19,2,Skills workshop,Central Center,6
+JB001372,2026-03-24,1,Orientation,Central Center,4
+JB001374,2026-03-09,1,Orientation,Central Center,4
+JB001374,2026-04-10,2,Skills workshop,Central Center,6
+JB001375,2026-03-21,1,Orientation,Central Center,4
+JB001376,2026-03-08,1,Orientation,Central Center,4
+JB001377,2026-03-13,1,Orientation,Central Center,4
+JB001377,2026-04-13,2,Skills workshop,Central Center,6
+JB001379,2026-03-17,1,Orientation,Central Center,4
+JB001379,2026-04-20,2,Skills workshop,Central Center,6
+JB001379,2026-05-07,3,Job placement,Central Center,6
+JB001380,2026-03-15,1,Orientation,Central Center,4
+JB001383,2026-03-24,1,Orientation,Central Center,4
+JB001384,2026-03-04,1,Orientation,Central Center,4
+JB001385,2026-03-16,1,Orientation,Central Center,4
+JB001385,2026-04-16,2,Skills workshop,Central Center,6
+JB001385,2026-05-19,3,Job placement,Central Center,6
+JB001389,2026-03-19,1,Orientation,Central Center,4
+JB001391,2026-03-16,1,Orientation,Central Center,4
+JB001394,2026-03-04,1,Orientation,Central Center,4
+JB001396,2026-03-07,1,Orientation,Central Center,4
+JB001396,2026-04-10,2,Skills workshop,Central Center,6
+JB001398,2026-03-21,1,Orientation,Central Center,4
+JB001398,2026-04-24,2,Skills workshop,Central Center,6
+JB001399,2026-03-09,1,Orientation,Central Center,4
+JB001402,2026-03-09,1,Orientation,Central Center,4
+JB001403,2026-03-16,1,Orientation,Central Center,4
+JB001403,2026-04-07,2,Skills workshop,Central Center,6
+JB001405,2026-03-21,1,Orientation,Central Center,4
+JB001405,2026-04-11,2,Skills workshop,Central Center,6
+JB001407,2026-03-03,1,Orientation,Central Center,4
+JB001409,2026-03-25,1,Orientation,Central Center,4
+JB001411,2026-03-14,1,Orientation,Central Center,4
+JB001412,2026-03-05,1,Orientation,Central Center,4
+JB001416,2026-03-05,1,Orientation,Central Center,4
+JB001416,2026-04-22,2,Skills workshop,Central Center,6
+JB001416,2026-05-16,3,Job placement,Central Center,6
+JB001417,2026-03-24,1,Orientation,Central Center,4
+JB001421,2026-03-21,1,Orientation,Central Center,4
+JB001423,2026-03-25,1,Orientation,Central Center,4
+JB001425,2026-03-10,1,Orientation,Central Center,4
+JB001426,2026-03-15,1,Orientation,Central Center,4
+JB001428,2026-03-14,1,Orientation,Central Center,4
+JB001428,2026-04-14,2,Skills workshop,Central Center,6
+JB001429,2026-03-11,1,Orientation,Central Center,4
+JB001429,2026-04-10,2,Skills workshop,Central Center,6
+JB001430,2026-03-11,1,Orientation,Central Center,4
+JB001431,2026-03-23,1,Orientation,Central Center,4
+JB001431,2026-04-18,2,Skills workshop,Central Center,6
+JB001431,2026-05-19,3,Job placement,Central Center,6
+JB001432,2026-03-05,1,Orientation,Central Center,4
+JB001432,2026-04-19,2,Skills workshop,Central Center,6
+JB001433,2026-03-05,1,Orientation,Central Center,4
+JB001436,2026-03-21,1,Orientation,Central Center,4
+JB001439,2026-03-05,1,Orientation,Central Center,4
+JB001440,2026-03-19,1,Orientation,Central Center,4
+JB001441,2026-03-12,1,Orientation,Central Center,4
+JB001444,2026-03-10,1,Orientation,Central Center,4
+JB001447,2026-03-14,1,Orientation,Central Center,4
+JB001449,2026-03-05,1,Orientation,Central Center,4
+JB001451,2026-03-26,1,Orientation,Central Center,4
+JB001452,2026-03-22,1,Orientation,Central Center,4
+JB001452,2026-04-22,2,Skills workshop,Central Center,6
+JB001454,2026-03-11,1,Orientation,Central Center,4
+JB001456,2026-03-07,1,Orientation,Central Center,4
+JB001457,2026-03-17,1,Orientation,Central Center,4
+JB001457,2026-04-23,2,Skills workshop,Central Center,6
+JB001457,2026-05-19,3,Job placement,Central Center,6
+JB001458,2026-03-07,1,Orientation,Central Center,4
+JB001460,2026-03-22,1,Orientation,Central Center,4
+JB001462,2026-03-17,1,Orientation,Central Center,4
+JB001463,2026-03-20,1,Orientation,Central Center,4
+JB001465,2026-03-05,1,Orientation,Central Center,4
+JB001465,2026-04-23,2,Skills workshop,Central Center,6
+JB001466,2026-03-13,1,Orientation,Central Center,4
+JB001467,2026-03-04,1,Orientation,Central Center,4
+JB001468,2026-03-11,1,Orientation,Central Center,4
+JB001474,2026-03-08,1,Orientation,Central Center,4
+JB001475,2026-03-22,1,Orientation,Central Center,4
+JB001477,2026-03-08,1,Orientation,Central Center,4
+JB001478,2026-03-19,1,Orientation,Central Center,4
+JB001481,2026-03-23,1,Orientation,Central Center,4
+JB001484,2026-03-08,1,Orientation,Central Center,4
+JB001485,2026-03-08,1,Orientation,Central Center,4
+JB001486,2026-03-16,1,Orientation,Central Center,4
+JB001488,2026-03-21,1,Orientation,Central Center,4
+JB001489,2026-03-14,1,Orientation,Central Center,4
+JB001490,2026-03-26,1,Orientation,Central Center,4
+JB001491,2026-03-06,1,Orientation,Central Center,4
+JB001493,2026-03-13,1,Orientation,Central Center,4
+JB001493,2026-04-24,2,Skills workshop,Central Center,6
+JB001496,2026-03-22,1,Orientation,Central Center,4
+JB001497,2026-03-15,1,Orientation,Central Center,4
+JB001497,2026-04-22,2,Skills workshop,Central Center,6
+JB001497,2026-05-19,3,Job placement,Central Center,6
+JB001499,2026-03-13,1,Orientation,Central Center,4
+JB001499,2026-04-11,2,Skills workshop,Central Center,6
+JB001500,2026-03-20,1,Orientation,Central Center,4
+JB001507,2026-03-06,1,Orientation,Central Center,4
+JB001510,2026-03-22,1,Orientation,Central Center,4
+JB001510,2026-04-11,2,Skills workshop,Central Center,6
+JB001510,2026-05-09,3,Job placement,Central Center,6
+JB001514,2026-03-17,1,Orientation,Central Center,4
+JB001514,2026-04-18,2,Skills workshop,Central Center,6
+JB001520,2026-03-19,1,Orientation,Central Center,4
+JB001520,2026-04-21,2,Skills workshop,Central Center,6
+JB001521,2026-03-16,1,Orientation,Central Center,4
+JB001521,2026-04-24,2,Skills workshop,Central Center,6
+JB001523,2026-03-22,1,Orientation,Central Center,4
+JB001523,2026-04-23,2,Skills workshop,Central Center,6
+JB001523,2026-05-16,3,Job placement,Central Center,6
+JB001529,2026-03-20,1,Orientation,Central Center,4
+JB001530,2026-03-12,1,Orientation,Central Center,4
+JB001533,2026-03-26,1,Orientation,Central Center,4
+JB001536,2026-03-23,1,Orientation,Central Center,4
+JB001536,2026-04-16,2,Skills workshop,Central Center,6
+JB001537,2026-03-06,1,Orientation,Central Center,4
+JB001538,2026-03-26,1,Orientation,Central Center,4
+JB001538,2026-04-12,2,Skills workshop,Central Center,6
+JB001539,2026-03-10,1,Orientation,Central Center,4
+JB001541,2026-03-23,1,Orientation,Central Center,4
+JB001544,2026-03-04,1,Orientation,Central Center,4
+JB001544,2026-04-18,2,Skills workshop,Central Center,6
+JB001547,2026-03-08,1,Orientation,Central Center,4
+JB001548,2026-03-20,1,Orientation,Central Center,4
+JB001550,2026-03-07,1,Orientation,Central Center,4
+JB001550,2026-04-21,2,Skills workshop,Central Center,6
+JB001553,2026-03-16,1,Orientation,Central Center,4
+JB001555,2026-03-26,1,Orientation,Central Center,4
+JB001555,2026-04-26,2,Skills workshop,Central Center,6
+JB001555,2026-05-07,3,Job placement,Central Center,6
+JB001556,2026-03-06,1,Orientation,Central Center,4
+JB001557,2026-03-14,1,Orientation,Central Center,4
+JB001560,2026-03-13,1,Orientation,Central Center,4
+JB001560,2026-04-06,2,Skills workshop,Central Center,6
+JB001560,2026-05-14,3,Job placement,Central Center,6
+JB001568,2026-03-19,1,Orientation,Central Center,4
+JB001568,2026-04-09,2,Skills workshop,Central Center,6
+JB001569,2026-03-26,1,Orientation,Central Center,4
+JB001573,2026-03-14,1,Orientation,Central Center,4
+JB001574,2026-03-03,1,Orientation,Central Center,4
+JB001574,2026-04-16,2,Skills workshop,Central Center,6
+JB001577,2026-03-16,1,Orientation,Central Center,4
+JB001578,2026-03-11,1,Orientation,Central Center,4
+JB001581,2026-03-19,1,Orientation,Central Center,4
+JB001581,2026-04-18,2,Skills workshop,Central Center,6
+JB001581,2026-05-23,3,Job placement,Central Center,6
+JB001582,2026-03-07,1,Orientation,Central Center,4
+JB001585,2026-03-07,1,Orientation,Central Center,4
+JB001586,2026-03-09,1,Orientation,Central Center,4
+JB001587,2026-03-08,1,Orientation,Central Center,4
+JB001587,2026-04-18,2,Skills workshop,Central Center,6
+JB001592,2026-03-03,1,Orientation,Central Center,4
+JB001597,2026-03-23,1,Orientation,Central Center,4
+JB001598,2026-03-20,1,Orientation,Central Center,4
+JB001600,2026-03-03,1,Orientation,Central Center,4
+JB001600,2026-04-15,2,Skills workshop,Central Center,6
+JB001603,2026-03-04,1,Orientation,Central Center,4
+JB001604,2026-03-20,1,Orientation,Central Center,4
+JB001607,2026-03-12,1,Orientation,Central Center,4
+JB001608,2026-03-14,1,Orientation,Central Center,4
+JB001611,2026-03-11,1,Orientation,Central Center,4
+JB001614,2026-03-13,1,Orientation,Central Center,4
+JB001614,2026-04-03,2,Skills workshop,Central Center,6
+JB001615,2026-03-14,1,Orientation,Central Center,4
+JB001616,2026-03-07,1,Orientation,Central Center,4
+JB001616,2026-04-15,2,Skills workshop,Central Center,6
+JB001616,2026-05-21,3,Job placement,Central Center,6
+JB001620,2026-03-08,1,Orientation,Central Center,4
+JB001622,2026-03-11,1,Orientation,Central Center,4
+JB001623,2026-03-22,1,Orientation,Central Center,4
+JB001626,2026-03-22,1,Orientation,Central Center,4
+JB001626,2026-04-04,2,Skills workshop,Central Center,6
+JB001627,2026-03-15,1,Orientation,Central Center,4
+JB001629,2026-03-21,1,Orientation,Central Center,4
+JB001630,2026-03-05,1,Orientation,Central Center,4
+JB001631,2026-03-09,1,Orientation,Central Center,4
+JB001633,2026-03-12,1,Orientation,Central Center,4
+JB001633,2026-04-26,2,Skills workshop,Central Center,6
+JB001635,2026-03-05,1,Orientation,Central Center,4
+JB001638,2026-03-17,1,Orientation,Central Center,4
+JB001639,2026-03-03,1,Orientation,Central Center,4
+JB001641,2026-03-16,1,Orientation,Central Center,4
+JB001642,2026-03-04,1,Orientation,Central Center,4
+JB001644,2026-03-06,1,Orientation,Central Center,4
+JB001645,2026-03-05,1,Orientation,Central Center,4
+JB001646,2026-03-12,1,Orientation,Central Center,4
+JB001647,2026-03-24,1,Orientation,Central Center,4
+JB001647,2026-04-03,2,Skills workshop,Central Center,6
+JB001648,2026-03-20,1,Orientation,Central Center,4
+JB001649,2026-03-26,1,Orientation,Central Center,4
+JB001650,2026-03-18,1,Orientation,Central Center,4
+JB001652,2026-03-09,1,Orientation,Central Center,4
+JB001654,2026-03-16,1,Orientation,Central Center,4
+JB001654,2026-04-17,2,Skills workshop,Central Center,6
+JB001658,2026-03-23,1,Orientation,Central Center,4
+JB001659,2026-03-18,1,Orientation,Central Center,4
+JB001659,2026-04-03,2,Skills workshop,Central Center,6
+JB001661,2026-03-04,1,Orientation,Central Center,4
+JB001661,2026-04-16,2,Skills workshop,Central Center,6
+JB001662,2026-03-23,1,Orientation,Central Center,4
+JB001662,2026-04-08,2,Skills workshop,Central Center,6
+JB001663,2026-03-11,1,Orientation,Central Center,4
+JB001665,2026-03-14,1,Orientation,Central Center,4
+JB001665,2026-04-14,2,Skills workshop,Central Center,6
+JB001666,2026-03-21,1,Orientation,Central Center,4
+JB001670,2026-03-04,1,Orientation,Central Center,4
+JB001671,2026-03-10,1,Orientation,Central Center,4
+JB001671,2026-04-25,2,Skills workshop,Central Center,6
+JB001671,2026-05-24,3,Job placement,Central Center,6
+JB001672,2026-03-23,1,Orientation,Central Center,4
+JB001676,2026-03-03,1,Orientation,Central Center,4
+JB001676,2026-04-26,2,Skills workshop,Central Center,6
+JB001676,2026-05-09,3,Job placement,Central Center,6
+JB001677,2026-03-14,1,Orientation,Central Center,4
+JB001678,2026-03-18,1,Orientation,Central Center,4
+JB001679,2026-03-23,1,Orientation,Central Center,4
+JB001680,2026-03-21,1,Orientation,Central Center,4
+JB001681,2026-03-09,1,Orientation,Central Center,4
+JB001682,2026-03-15,1,Orientation,Central Center,4
+JB001683,2026-03-24,1,Orientation,Central Center,4
+JB001683,2026-04-07,2,Skills workshop,Central Center,6
+JB001685,2026-03-18,1,Orientation,Central Center,4
+JB001685,2026-04-26,2,Skills workshop,Central Center,6
+JB001688,2026-03-21,1,Orientation,Central Center,4
+JB001689,2026-03-04,1,Orientation,Central Center,4
+JB001693,2026-03-20,1,Orientation,Central Center,4
+JB001695,2026-03-12,1,Orientation,Central Center,4
+JB001698,2026-03-09,1,Orientation,Central Center,4
+JB001698,2026-04-08,2,Skills workshop,Central Center,6
+JB001699,2026-03-21,1,Orientation,Central Center,4
+JB001699,2026-04-09,2,Skills workshop,Central Center,6
+JB001701,2026-03-04,1,Orientation,Central Center,4
+JB001704,2026-03-25,1,Orientation,Central Center,4
+JB001704,2026-04-14,2,Skills workshop,Central Center,6
+JB001704,2026-05-09,3,Job placement,Central Center,6
+JB001706,2026-03-04,1,Orientation,Central Center,4
+JB001710,2026-03-18,1,Orientation,Central Center,4
+JB001711,2026-03-07,1,Orientation,Central Center,4
+JB001712,2026-03-25,1,Orientation,Central Center,4
+JB001712,2026-04-16,2,Skills workshop,Central Center,6
+JB001713,2026-03-26,1,Orientation,Central Center,4
+JB001713,2026-04-12,2,Skills workshop,Central Center,6
+JB001717,2026-03-08,1,Orientation,Central Center,4
+JB001718,2026-03-05,1,Orientation,Central Center,4
+JB001722,2026-03-26,1,Orientation,Central Center,4
+JB001723,2026-03-11,1,Orientation,Central Center,4
+JB001725,2026-03-25,1,Orientation,Central Center,4
+JB001726,2026-03-04,1,Orientation,Central Center,4
+JB001728,2026-03-08,1,Orientation,Central Center,4
+JB001729,2026-03-21,1,Orientation,Central Center,4
+JB001733,2026-03-22,1,Orientation,Central Center,4
+JB001733,2026-04-03,2,Skills workshop,Central Center,6
+JB001734,2026-03-26,1,Orientation,Central Center,4
+JB001734,2026-04-10,2,Skills workshop,Central Center,6
+JB001735,2026-03-26,1,Orientation,Central Center,4
+JB001735,2026-04-08,2,Skills workshop,Central Center,6
+JB001735,2026-05-14,3,Job placement,Central Center,6
+JB001736,2026-03-25,1,Orientation,Central Center,4
+JB001736,2026-04-04,2,Skills workshop,Central Center,6
+JB001742,2026-03-26,1,Orientation,Central Center,4
+JB001743,2026-03-07,1,Orientation,Central Center,4
+JB001743,2026-04-05,2,Skills workshop,Central Center,6
+JB001744,2026-03-15,1,Orientation,Central Center,4
+JB001744,2026-04-22,2,Skills workshop,Central Center,6
+JB001745,2026-03-13,1,Orientation,Central Center,4
+JB001750,2026-03-11,1,Orientation,Central Center,4
+JB001753,2026-03-14,1,Orientation,Central Center,4
+JB001754,2026-03-25,1,Orientation,Central Center,4
+JB001755,2026-03-06,1,Orientation,Central Center,4
+JB001756,2026-03-05,1,Orientation,Central Center,4
+JB001757,2026-03-24,1,Orientation,Central Center,4
+JB001757,2026-04-19,2,Skills workshop,Central Center,6
+JB001760,2026-03-17,1,Orientation,Central Center,4
+JB001763,2026-03-08,1,Orientation,Central Center,4
+JB001763,2026-04-25,2,Skills workshop,Central Center,6
+JB001766,2026-03-21,1,Orientation,Central Center,4
+JB001769,2026-03-13,1,Orientation,Central Center,4
+JB001770,2026-03-05,1,Orientation,Central Center,4
+JB001771,2026-03-04,1,Orientation,Central Center,4
+JB001771,2026-04-18,2,Skills workshop,Central Center,6
+JB001771,2026-05-15,3,Job placement,Central Center,6
+JB001772,2026-03-23,1,Orientation,Central Center,4
+JB001773,2026-03-04,1,Orientation,Central Center,4
+JB001776,2026-03-14,1,Orientation,Central Center,4
+JB001779,2026-03-10,1,Orientation,Central Center,4
+JB001781,2026-03-21,1,Orientation,Central Center,4
+JB001788,2026-03-16,1,Orientation,Central Center,4
+JB001791,2026-03-19,1,Orientation,Central Center,4
+JB001791,2026-04-09,2,Skills workshop,Central Center,6
+JB001794,2026-03-22,1,Orientation,Central Center,4
+JB001798,2026-03-24,1,Orientation,Central Center,4
+JB001799,2026-03-04,1,Orientation,Central Center,4
+JB001803,2026-03-25,1,Orientation,South Center,4
+JB001804,2026-03-03,1,Orientation,South Center,4
+JB001804,2026-04-03,2,Skills workshop,South Center,6
+JB001804,2026-05-21,3,Job placement,South Center,6
+JB001808,2026-03-21,1,Orientation,South Center,4
+JB001808,2026-04-19,2,Skills workshop,South Center,6
+JB001809,2026-03-10,1,Orientation,South Center,4
+JB001810,2026-03-06,1,Orientation,South Center,4
+JB001811,2026-03-10,1,Orientation,South Center,4
+JB001811,2026-04-12,2,Skills workshop,South Center,6
+JB001814,2026-03-03,1,Orientation,South Center,4
+JB001814,2026-04-07,2,Skills workshop,South Center,6
+JB001814,2026-05-20,3,Job placement,South Center,6
+JB001816,2026-03-22,1,Orientation,South Center,4
+JB001816,2026-04-24,2,Skills workshop,South Center,6
+JB001818,2026-03-07,1,Orientation,South Center,4
+JB001819,2026-03-25,1,Orientation,South Center,4
+JB001821,2026-03-06,1,Orientation,South Center,4
+JB001821,2026-04-08,2,Skills workshop,South Center,6
+JB001822,2026-03-25,1,Orientation,South Center,4
+JB001825,2026-03-23,1,Orientation,South Center,4
+JB001829,2026-03-08,1,Orientation,South Center,4
+JB001830,2026-03-05,1,Orientation,South Center,4
+JB001832,2026-03-20,1,Orientation,South Center,4
+JB001832,2026-04-04,2,Skills workshop,South Center,6
+JB001835,2026-03-26,1,Orientation,South Center,4
+JB001835,2026-04-04,2,Skills workshop,South Center,6
+JB001836,2026-03-11,1,Orientation,South Center,4
+JB001837,2026-03-17,1,Orientation,South Center,4
+JB001838,2026-03-21,1,Orientation,South Center,4
+JB001840,2026-03-15,1,Orientation,South Center,4
+JB001840,2026-04-25,2,Skills workshop,South Center,6
+JB001843,2026-03-04,1,Orientation,South Center,4
+JB001844,2026-03-17,1,Orientation,South Center,4
+JB001845,2026-03-05,1,Orientation,South Center,4
+JB001847,2026-03-23,1,Orientation,South Center,4
+JB001849,2026-03-23,1,Orientation,South Center,4
+JB001849,2026-04-17,2,Skills workshop,South Center,6
+JB001850,2026-03-14,1,Orientation,South Center,4
+JB001851,2026-03-20,1,Orientation,South Center,4
+JB001852,2026-03-23,1,Orientation,South Center,4
+JB001854,2026-03-22,1,Orientation,South Center,4
+JB001855,2026-03-06,1,Orientation,South Center,4
+JB001858,2026-03-20,1,Orientation,South Center,4
+JB001858,2026-04-26,2,Skills workshop,South Center,6
+JB001859,2026-03-04,1,Orientation,South Center,4
+JB001860,2026-03-18,1,Orientation,South Center,4
+JB001861,2026-03-05,1,Orientation,South Center,4
+JB001861,2026-04-17,2,Skills workshop,South Center,6
+JB001864,2026-03-20,1,Orientation,South Center,4
+JB001866,2026-03-09,1,Orientation,South Center,4
+JB001866,2026-04-14,2,Skills workshop,South Center,6
+JB001868,2026-03-07,1,Orientation,South Center,4
+JB001869,2026-03-10,1,Orientation,South Center,4
+JB001869,2026-04-12,2,Skills workshop,South Center,6
+JB001870,2026-03-20,1,Orientation,South Center,4
+JB001872,2026-03-07,1,Orientation,South Center,4
+JB001873,2026-03-07,1,Orientation,South Center,4
+JB001873,2026-04-14,2,Skills workshop,South Center,6
+JB001875,2026-03-12,1,Orientation,South Center,4
+JB001879,2026-03-19,1,Orientation,South Center,4
+JB001879,2026-04-15,2,Skills workshop,South Center,6
+JB001881,2026-03-13,1,Orientation,South Center,4
+JB001884,2026-03-11,1,Orientation,South Center,4
+JB001884,2026-04-26,2,Skills workshop,South Center,6
+JB001885,2026-03-23,1,Orientation,South Center,4
+JB001885,2026-04-05,2,Skills workshop,South Center,6
+JB001888,2026-03-03,1,Orientation,South Center,4
+JB001889,2026-03-16,1,Orientation,South Center,4
+JB001890,2026-03-22,1,Orientation,South Center,4
+JB001891,2026-03-22,1,Orientation,South Center,4
+JB001891,2026-04-20,2,Skills workshop,South Center,6
+JB001892,2026-03-25,1,Orientation,South Center,4
+JB001894,2026-03-20,1,Orientation,South Center,4
+JB001896,2026-03-03,1,Orientation,South Center,4
+JB001901,2026-03-23,1,Orientation,South Center,4
+JB001903,2026-03-05,1,Orientation,South Center,4
+JB001904,2026-03-17,1,Orientation,South Center,4
+JB001905,2026-03-07,1,Orientation,South Center,4
+JB001907,2026-03-06,1,Orientation,South Center,4
+JB001909,2026-03-23,1,Orientation,South Center,4
+JB001913,2026-03-09,1,Orientation,South Center,4
+JB001915,2026-03-04,1,Orientation,South Center,4
+JB001915,2026-04-26,2,Skills workshop,South Center,6
+JB001917,2026-03-18,1,Orientation,South Center,4
+JB001918,2026-03-05,1,Orientation,South Center,4
+JB001918,2026-04-07,2,Skills workshop,South Center,6
+JB001920,2026-03-09,1,Orientation,South Center,4
+JB001921,2026-03-19,1,Orientation,South Center,4
+JB001923,2026-03-20,1,Orientation,South Center,4
+JB001924,2026-03-12,1,Orientation,South Center,4
+JB001925,2026-03-17,1,Orientation,South Center,4
+JB001928,2026-03-16,1,Orientation,South Center,4
+JB001936,2026-03-15,1,Orientation,South Center,4
+JB001939,2026-03-18,1,Orientation,South Center,4
+JB001940,2026-03-22,1,Orientation,South Center,4
+JB001941,2026-03-25,1,Orientation,South Center,4
+JB001942,2026-03-04,1,Orientation,South Center,4
+JB001942,2026-04-12,2,Skills workshop,South Center,6
+JB001944,2026-03-12,1,Orientation,South Center,4
+JB001945,2026-03-14,1,Orientation,South Center,4
+JB001945,2026-04-03,2,Skills workshop,South Center,6
+JB001946,2026-03-14,1,Orientation,South Center,4
+JB001947,2026-03-22,1,Orientation,South Center,4
+JB001948,2026-03-18,1,Orientation,South Center,4
+JB001949,2026-03-22,1,Orientation,South Center,4
+JB001950,2026-03-22,1,Orientation,South Center,4
+JB001951,2026-03-16,1,Orientation,South Center,4
+JB001953,2026-03-12,1,Orientation,South Center,4
+JB001954,2026-03-19,1,Orientation,South Center,4
+JB001954,2026-04-18,2,Skills workshop,South Center,6
+JB001954,2026-05-19,3,Job placement,South Center,6
+JB001957,2026-03-11,1,Orientation,South Center,4
+JB001957,2026-04-12,2,Skills workshop,South Center,6
+JB001961,2026-03-06,1,Orientation,South Center,4
+JB001962,2026-03-03,1,Orientation,South Center,4
+JB001963,2026-03-05,1,Orientation,South Center,4
+JB001963,2026-04-26,2,Skills workshop,South Center,6
+JB001969,2026-03-18,1,Orientation,South Center,4
+JB001970,2026-03-14,1,Orientation,South Center,4
+JB001971,2026-03-18,1,Orientation,South Center,4
+JB001974,2026-03-07,1,Orientation,South Center,4
+JB001974,2026-04-11,2,Skills workshop,South Center,6
+JB001976,2026-03-03,1,Orientation,South Center,4
+JB001977,2026-03-12,1,Orientation,South Center,4
+JB001977,2026-04-22,2,Skills workshop,South Center,6
+JB001979,2026-03-13,1,Orientation,South Center,4
+JB001979,2026-04-06,2,Skills workshop,South Center,6
+JB001981,2026-03-15,1,Orientation,South Center,4
+JB001982,2026-03-03,1,Orientation,South Center,4
+JB001983,2026-03-24,1,Orientation,South Center,4
+JB001984,2026-03-14,1,Orientation,South Center,4
+JB001985,2026-03-23,1,Orientation,South Center,4
+JB001990,2026-03-18,1,Orientation,South Center,4
+JB001990,2026-04-20,2,Skills workshop,South Center,6
+JB001990,2026-05-05,3,Job placement,South Center,6
+JB001991,2026-03-15,1,Orientation,South Center,4
+JB001993,2026-03-14,1,Orientation,South Center,4
+JB001993,2026-04-24,2,Skills workshop,South Center,6
+JB001994,2026-03-20,1,Orientation,South Center,4
+JB001994,2026-04-19,2,Skills workshop,South Center,6
+JB001995,2026-03-15,1,Orientation,South Center,4
+JB001996,2026-03-09,1,Orientation,South Center,4
+JB001998,2026-03-18,1,Orientation,South Center,4
+JB002000,2026-03-10,1,Orientation,South Center,4
+JB002000,2026-04-05,2,Skills workshop,South Center,6
+JB002001,2026-03-26,1,Orientation,South Center,4
+JB002003,2026-03-06,1,Orientation,South Center,4
+JB002005,2026-03-25,1,Orientation,South Center,4
+JB002006,2026-03-08,1,Orientation,South Center,4
+JB002006,2026-04-10,2,Skills workshop,South Center,6
+JB002007,2026-03-07,1,Orientation,South Center,4
+JB002010,2026-03-03,1,Orientation,South Center,4
+JB002012,2026-03-12,1,Orientation,South Center,4
+JB002012,2026-04-06,2,Skills workshop,South Center,6
+JB002013,2026-03-23,1,Orientation,South Center,4
+JB002015,2026-03-09,1,Orientation,South Center,4
+JB002023,2026-03-15,1,Orientation,South Center,4
+JB002025,2026-03-17,1,Orientation,South Center,4
+JB002027,2026-03-25,1,Orientation,South Center,4
+JB002028,2026-03-03,1,Orientation,South Center,4
+JB002029,2026-03-03,1,Orientation,South Center,4
+JB002029,2026-04-20,2,Skills workshop,South Center,6
+JB002029,2026-05-06,3,Job placement,South Center,6
+JB002030,2026-03-17,1,Orientation,South Center,4
+JB002031,2026-03-15,1,Orientation,South Center,4
+JB002031,2026-04-12,2,Skills workshop,South Center,6
+JB002036,2026-03-12,1,Orientation,South Center,4
+JB002039,2026-03-23,1,Orientation,South Center,4
+JB002040,2026-03-04,1,Orientation,South Center,4
+JB002042,2026-03-11,1,Orientation,South Center,4
+JB002049,2026-03-24,1,Orientation,South Center,4
+JB002049,2026-04-21,2,Skills workshop,South Center,6
+JB002053,2026-03-05,1,Orientation,South Center,4
+JB002054,2026-03-13,1,Orientation,South Center,4
+JB002058,2026-03-26,1,Orientation,South Center,4
+JB002058,2026-04-09,2,Skills workshop,South Center,6
+JB002060,2026-03-08,1,Orientation,South Center,4
+JB002061,2026-03-17,1,Orientation,South Center,4
+JB002062,2026-03-24,1,Orientation,South Center,4
+JB002063,2026-03-16,1,Orientation,South Center,4
+JB002066,2026-03-04,1,Orientation,South Center,4
+JB002067,2026-03-03,1,Orientation,South Center,4
+JB002068,2026-03-19,1,Orientation,South Center,4
+JB002069,2026-03-06,1,Orientation,South Center,4
+JB002070,2026-03-26,1,Orientation,South Center,4
+JB002074,2026-03-10,1,Orientation,South Center,4
+JB002075,2026-03-08,1,Orientation,South Center,4
+JB002076,2026-03-13,1,Orientation,South Center,4
+JB002078,2026-03-08,1,Orientation,South Center,4
+JB002079,2026-03-22,1,Orientation,South Center,4
+JB002079,2026-04-04,2,Skills workshop,South Center,6
+JB002080,2026-03-22,1,Orientation,South Center,4
+JB002080,2026-04-25,2,Skills workshop,South Center,6
+JB002080,2026-05-26,3,Job placement,South Center,6
+JB002086,2026-03-12,1,Orientation,South Center,4
+JB002087,2026-03-04,1,Orientation,South Center,4
+JB002087,2026-04-18,2,Skills workshop,South Center,6
+JB002088,2026-03-20,1,Orientation,South Center,4
+JB002088,2026-04-24,2,Skills workshop,South Center,6
+JB002092,2026-03-14,1,Orientation,South Center,4
+JB002094,2026-03-21,1,Orientation,South Center,4
+JB002099,2026-03-08,1,Orientation,South Center,4
+JB002100,2026-03-21,1,Orientation,South Center,4
+JB002100,2026-04-06,2,Skills workshop,South Center,6
+JB002101,2026-03-06,1,Orientation,South Center,4
+JB002101,2026-04-24,2,Skills workshop,South Center,6
+JB002102,2026-03-07,1,Orientation,South Center,4
+JB002102,2026-04-24,2,Skills workshop,South Center,6
+JB002102,2026-05-16,3,Job placement,South Center,6
+JB002106,2026-03-16,1,Orientation,South Center,4
+JB002108,2026-03-12,1,Orientation,South Center,4
+JB002108,2026-04-06,2,Skills workshop,South Center,6
+JB002110,2026-03-20,1,Orientation,South Center,4
+JB002112,2026-03-17,1,Orientation,South Center,4
+JB002118,2026-03-06,1,Orientation,South Center,4
+JB002121,2026-03-23,1,Orientation,South Center,4
+JB002129,2026-03-21,1,Orientation,South Center,4
+JB002131,2026-03-19,1,Orientation,South Center,4
+JB002132,2026-03-17,1,Orientation,South Center,4
+JB002132,2026-04-19,2,Skills workshop,South Center,6
+JB002133,2026-03-15,1,Orientation,South Center,4
+JB002135,2026-03-12,1,Orientation,South Center,4
+JB002136,2026-03-23,1,Orientation,South Center,4
+JB002137,2026-03-16,1,Orientation,South Center,4
+JB002137,2026-04-21,2,Skills workshop,South Center,6
+JB002138,2026-03-04,1,Orientation,South Center,4
+JB002144,2026-03-06,1,Orientation,South Center,4
+JB002144,2026-04-05,2,Skills workshop,South Center,6
+JB002144,2026-05-12,3,Job placement,South Center,6
+JB002146,2026-03-21,1,Orientation,South Center,4
+JB002147,2026-03-18,1,Orientation,South Center,4
+JB002149,2026-03-23,1,Orientation,South Center,4
+JB002154,2026-03-26,1,Orientation,South Center,4
+JB002158,2026-03-03,1,Orientation,South Center,4
+JB002159,2026-03-09,1,Orientation,South Center,4
+JB002160,2026-03-24,1,Orientation,South Center,4
+JB002160,2026-04-04,2,Skills workshop,South Center,6
+JB002161,2026-03-03,1,Orientation,South Center,4
+JB002162,2026-03-15,1,Orientation,South Center,4
+JB002162,2026-04-15,2,Skills workshop,South Center,6
+JB002164,2026-03-19,1,Orientation,South Center,4
+JB002166,2026-03-06,1,Orientation,South Center,4
+JB002167,2026-03-04,1,Orientation,South Center,4
+JB002168,2026-03-26,1,Orientation,South Center,4
+JB002170,2026-03-23,1,Orientation,South Center,4
+JB002170,2026-04-22,2,Skills workshop,South Center,6
+JB002170,2026-05-05,3,Job placement,South Center,6
+JB002171,2026-03-18,1,Orientation,South Center,4
+JB002171,2026-04-03,2,Skills workshop,South Center,6
+JB002174,2026-03-03,1,Orientation,South Center,4
+JB002174,2026-04-16,2,Skills workshop,South Center,6
+JB002176,2026-03-04,1,Orientation,South Center,4
+JB002182,2026-03-03,1,Orientation,South Center,4
+JB002182,2026-04-17,2,Skills workshop,South Center,6
+JB002182,2026-05-15,3,Job placement,South Center,6
+JB002185,2026-03-10,1,Orientation,South Center,4
+JB002185,2026-04-08,2,Skills workshop,South Center,6
+JB002186,2026-03-06,1,Orientation,South Center,4
+JB002189,2026-03-15,1,Orientation,South Center,4
+JB002192,2026-03-19,1,Orientation,South Center,4
+JB002192,2026-04-23,2,Skills workshop,South Center,6
+JB002192,2026-05-23,3,Job placement,South Center,6
+JB002193,2026-03-10,1,Orientation,South Center,4
+JB002197,2026-03-23,1,Orientation,South Center,4
+JB002198,2026-03-23,1,Orientation,South Center,4
+JB002200,2026-03-13,1,Orientation,South Center,4
+JB002201,2026-03-18,1,Orientation,South Center,4
+JB002211,2026-03-14,1,Orientation,South Center,4
+JB002213,2026-03-18,1,Orientation,South Center,4
+JB002213,2026-04-09,2,Skills workshop,South Center,6
+JB002218,2026-03-08,1,Orientation,South Center,4
+JB002220,2026-03-26,1,Orientation,South Center,4
+JB002220,2026-04-21,2,Skills workshop,South Center,6
+JB002223,2026-03-10,1,Orientation,South Center,4
+JB002224,2026-03-10,1,Orientation,South Center,4
+JB002225,2026-03-09,1,Orientation,South Center,4
+JB002228,2026-03-12,1,Orientation,South Center,4
+JB002228,2026-04-12,2,Skills workshop,South Center,6
+JB002230,2026-03-19,1,Orientation,South Center,4
+JB002231,2026-03-26,1,Orientation,South Center,4
+JB002231,2026-04-18,2,Skills workshop,South Center,6
+JB002232,2026-03-11,1,Orientation,South Center,4
+JB002235,2026-03-22,1,Orientation,South Center,4
+JB002241,2026-03-17,1,Orientation,South Center,4
+JB002245,2026-03-17,1,Orientation,South Center,4
+JB002246,2026-03-06,1,Orientation,South Center,4
+JB002247,2026-03-23,1,Orientation,South Center,4
+JB002250,2026-03-22,1,Orientation,South Center,4
+JB002251,2026-03-17,1,Orientation,South Center,4
+JB002254,2026-03-05,1,Orientation,South Center,4
+JB002254,2026-04-25,2,Skills workshop,South Center,6
+JB002256,2026-03-07,1,Orientation,South Center,4
+JB002258,2026-03-24,1,Orientation,South Center,4
+JB002259,2026-03-24,1,Orientation,South Center,4
+JB002259,2026-04-11,2,Skills workshop,South Center,6
+JB002260,2026-03-15,1,Orientation,South Center,4
+JB002262,2026-03-16,1,Orientation,South Center,4
+JB002264,2026-03-06,1,Orientation,South Center,4
+JB002265,2026-03-05,1,Orientation,South Center,4
+JB002266,2026-03-15,1,Orientation,South Center,4
+JB002267,2026-03-24,1,Orientation,South Center,4
+JB002268,2026-03-19,1,Orientation,South Center,4
+JB002269,2026-03-10,1,Orientation,South Center,4
+JB002270,2026-03-09,1,Orientation,South Center,4
+JB002272,2026-03-05,1,Orientation,South Center,4
+JB002273,2026-03-11,1,Orientation,South Center,4
+JB002274,2026-03-15,1,Orientation,South Center,4
+JB002277,2026-03-20,1,Orientation,South Center,4
+JB002280,2026-03-25,1,Orientation,South Center,4
+JB002280,2026-04-21,2,Skills workshop,South Center,6
+JB002281,2026-03-25,1,Orientation,South Center,4
+JB002283,2026-03-25,1,Orientation,South Center,4
+JB002284,2026-03-16,1,Orientation,South Center,4
+JB002287,2026-03-22,1,Orientation,South Center,4
+JB002288,2026-03-07,1,Orientation,South Center,4
+JB002288,2026-04-09,2,Skills workshop,South Center,6
+JB002288,2026-05-14,3,Job placement,South Center,6
+JB002293,2026-03-09,1,Orientation,South Center,4
+JB002297,2026-03-14,1,Orientation,South Center,4
+JB002298,2026-03-10,1,Orientation,South Center,4
+JB002299,2026-03-19,1,Orientation,South Center,4
+JB002304,2026-03-04,1,Orientation,South Center,4
+JB002304,2026-04-17,2,Skills workshop,South Center,6
+JB002306,2026-03-08,1,Orientation,South Center,4
+JB002310,2026-03-14,1,Orientation,South Center,4
+JB002314,2026-03-09,1,Orientation,South Center,4
+JB002314,2026-04-04,2,Skills workshop,South Center,6
+JB002322,2026-03-04,1,Orientation,South Center,4
+JB002325,2026-03-06,1,Orientation,South Center,4
+JB002328,2026-03-17,1,Orientation,South Center,4
+JB002332,2026-03-16,1,Orientation,South Center,4
+JB002333,2026-03-08,1,Orientation,South Center,4
+JB002338,2026-03-23,1,Orientation,South Center,4
+JB002338,2026-04-20,2,Skills workshop,South Center,6
+JB002342,2026-03-10,1,Orientation,South Center,4
+JB002342,2026-04-10,2,Skills workshop,South Center,6
+JB002343,2026-03-17,1,Orientation,South Center,4
+JB002343,2026-04-03,2,Skills workshop,South Center,6
+JB002343,2026-05-15,3,Job placement,South Center,6
+JB002345,2026-03-23,1,Orientation,South Center,4
+JB002351,2026-03-13,1,Orientation,South Center,4
+JB002352,2026-03-20,1,Orientation,South Center,4
+JB002354,2026-03-20,1,Orientation,South Center,4
+JB002354,2026-04-13,2,Skills workshop,South Center,6
+JB002356,2026-03-22,1,Orientation,South Center,4
+JB002360,2026-03-23,1,Orientation,South Center,4
+JB002361,2026-03-06,1,Orientation,South Center,4
+JB002363,2026-03-16,1,Orientation,South Center,4
+JB002365,2026-03-05,1,Orientation,South Center,4
+JB002365,2026-04-13,2,Skills workshop,South Center,6
+JB002366,2026-03-18,1,Orientation,South Center,4
+JB002367,2026-03-10,1,Orientation,South Center,4
+JB002367,2026-04-06,2,Skills workshop,South Center,6
+JB002367,2026-05-15,3,Job placement,South Center,6
+JB002369,2026-03-22,1,Orientation,South Center,4
+JB002369,2026-04-08,2,Skills workshop,South Center,6
+JB002369,2026-05-21,3,Job placement,South Center,6
+JB002371,2026-03-16,1,Orientation,South Center,4
+JB002373,2026-03-22,1,Orientation,South Center,4
+JB002374,2026-03-12,1,Orientation,South Center,4
+JB002374,2026-04-18,2,Skills workshop,South Center,6
+JB002376,2026-03-11,1,Orientation,South Center,4
+JB002386,2026-03-22,1,Orientation,South Center,4
+JB002390,2026-03-22,1,Orientation,South Center,4
+JB002390,2026-04-14,2,Skills workshop,South Center,6
+JB002391,2026-03-25,1,Orientation,South Center,4
+JB002391,2026-04-23,2,Skills workshop,South Center,6
+JB002394,2026-03-22,1,Orientation,South Center,4
+JB002401,2026-03-25,1,Orientation,West Center,4
+JB002401,2026-04-22,2,Skills workshop,West Center,6
+JB002401,2026-05-23,3,Job placement,West Center,6
+JB002403,2026-03-07,1,Orientation,West Center,4
+JB002403,2026-04-22,2,Skills workshop,West Center,6
+JB002405,2026-03-05,1,Orientation,West Center,4
+JB002405,2026-04-15,2,Skills workshop,West Center,6
+JB002407,2026-03-16,1,Orientation,West Center,4
+JB002409,2026-03-26,1,Orientation,West Center,4
+JB002410,2026-03-03,1,Orientation,West Center,4
+JB002411,2026-03-06,1,Orientation,West Center,4
+JB002413,2026-03-18,1,Orientation,West Center,4
+JB002413,2026-04-21,2,Skills workshop,West Center,6
+JB002414,2026-03-05,1,Orientation,West Center,4
+JB002415,2026-03-16,1,Orientation,West Center,4
+JB002421,2026-03-14,1,Orientation,West Center,4
+JB002423,2026-03-26,1,Orientation,West Center,4
+JB002424,2026-03-22,1,Orientation,West Center,4
+JB002425,2026-03-24,1,Orientation,West Center,4
+JB002426,2026-03-04,1,Orientation,West Center,4
+JB002426,2026-04-19,2,Skills workshop,West Center,6
+JB002427,2026-03-13,1,Orientation,West Center,4
+JB002429,2026-03-12,1,Orientation,West Center,4
+JB002430,2026-03-07,1,Orientation,West Center,4
+JB002433,2026-03-17,1,Orientation,West Center,4
+JB002434,2026-03-17,1,Orientation,West Center,4
+JB002435,2026-03-12,1,Orientation,West Center,4
+JB002438,2026-03-25,1,Orientation,West Center,4
+JB002442,2026-03-07,1,Orientation,West Center,4
+JB002444,2026-03-22,1,Orientation,West Center,4
+JB002446,2026-03-17,1,Orientation,West Center,4
+JB002446,2026-04-13,2,Skills workshop,West Center,6
+JB002447,2026-03-15,1,Orientation,West Center,4
+JB002449,2026-03-05,1,Orientation,West Center,4
+JB002457,2026-03-09,1,Orientation,West Center,4
+JB002461,2026-03-26,1,Orientation,West Center,4
+JB002462,2026-03-15,1,Orientation,West Center,4
+JB002465,2026-03-04,1,Orientation,West Center,4
+JB002465,2026-04-10,2,Skills workshop,West Center,6
+JB002473,2026-03-11,1,Orientation,West Center,4
+JB002474,2026-03-07,1,Orientation,West Center,4
+JB002475,2026-03-08,1,Orientation,West Center,4
+JB002480,2026-03-23,1,Orientation,West Center,4
+JB002484,2026-03-03,1,Orientation,West Center,4
+JB002486,2026-03-20,1,Orientation,West Center,4
+JB002487,2026-03-04,1,Orientation,West Center,4
+JB002491,2026-03-21,1,Orientation,West Center,4
+JB002492,2026-03-07,1,Orientation,West Center,4
+JB002494,2026-03-14,1,Orientation,West Center,4
+JB002494,2026-04-18,2,Skills workshop,West Center,6
+JB002496,2026-03-04,1,Orientation,West Center,4
+JB002496,2026-04-05,2,Skills workshop,West Center,6
+JB002497,2026-03-10,1,Orientation,West Center,4
+JB002497,2026-04-16,2,Skills workshop,West Center,6
+JB002498,2026-03-19,1,Orientation,West Center,4
+JB002500,2026-03-06,1,Orientation,West Center,4
+JB002502,2026-03-03,1,Orientation,West Center,4
+JB002503,2026-03-10,1,Orientation,West Center,4
+JB002504,2026-03-12,1,Orientation,West Center,4
+JB002507,2026-03-16,1,Orientation,West Center,4
+JB002509,2026-03-07,1,Orientation,West Center,4
+JB002509,2026-04-07,2,Skills workshop,West Center,6
+JB002509,2026-05-22,3,Job placement,West Center,6
+JB002512,2026-03-22,1,Orientation,West Center,4
+JB002513,2026-03-19,1,Orientation,West Center,4
+JB002516,2026-03-22,1,Orientation,West Center,4
+JB002519,2026-03-22,1,Orientation,West Center,4
+JB002520,2026-03-04,1,Orientation,West Center,4
+JB002521,2026-03-24,1,Orientation,West Center,4
+JB002522,2026-03-26,1,Orientation,West Center,4
+JB002523,2026-03-14,1,Orientation,West Center,4
+JB002528,2026-03-20,1,Orientation,West Center,4
+JB002531,2026-03-13,1,Orientation,West Center,4
+JB002535,2026-03-04,1,Orientation,West Center,4
+JB002539,2026-03-20,1,Orientation,West Center,4
+JB002541,2026-03-03,1,Orientation,West Center,4
+JB002541,2026-04-03,2,Skills workshop,West Center,6
+JB002542,2026-03-04,1,Orientation,West Center,4
+JB002543,2026-03-07,1,Orientation,West Center,4
+JB002544,2026-03-24,1,Orientation,West Center,4
+JB002546,2026-03-07,1,Orientation,West Center,4
+JB002547,2026-03-15,1,Orientation,West Center,4
+JB002548,2026-03-13,1,Orientation,West Center,4
+JB002552,2026-03-16,1,Orientation,West Center,4
+JB002558,2026-03-20,1,Orientation,West Center,4
+JB002560,2026-03-04,1,Orientation,West Center,4
+JB002560,2026-04-14,2,Skills workshop,West Center,6
+JB002561,2026-03-05,1,Orientation,West Center,4
+JB002564,2026-03-09,1,Orientation,West Center,4
+JB002564,2026-04-24,2,Skills workshop,West Center,6
+JB002565,2026-03-07,1,Orientation,West Center,4
+JB002566,2026-03-20,1,Orientation,West Center,4
+JB002567,2026-03-12,1,Orientation,West Center,4
+JB002568,2026-03-21,1,Orientation,West Center,4
+JB002570,2026-03-22,1,Orientation,West Center,4
+JB002571,2026-03-20,1,Orientation,West Center,4
+JB002574,2026-03-04,1,Orientation,West Center,4
+JB002575,2026-03-07,1,Orientation,West Center,4
+JB002575,2026-04-11,2,Skills workshop,West Center,6
+JB002576,2026-03-18,1,Orientation,West Center,4
+JB002576,2026-04-07,2,Skills workshop,West Center,6
+JB002577,2026-03-21,1,Orientation,West Center,4
+JB002578,2026-03-21,1,Orientation,West Center,4
+JB002578,2026-04-16,2,Skills workshop,West Center,6
+JB002578,2026-05-03,3,Job placement,West Center,6
+JB002579,2026-03-07,1,Orientation,West Center,4
+JB002581,2026-03-21,1,Orientation,West Center,4
+JB002583,2026-03-21,1,Orientation,West Center,4
+JB002583,2026-04-18,2,Skills workshop,West Center,6
+JB002585,2026-03-18,1,Orientation,West Center,4
+JB002588,2026-03-07,1,Orientation,West Center,4
+JB002588,2026-04-15,2,Skills workshop,West Center,6
+JB002590,2026-03-26,1,Orientation,West Center,4
+JB002591,2026-03-22,1,Orientation,West Center,4
+JB002592,2026-03-25,1,Orientation,West Center,4
+JB002595,2026-03-10,1,Orientation,West Center,4
+JB002595,2026-04-25,2,Skills workshop,West Center,6
+JB002602,2026-03-11,1,Orientation,West Center,4
+JB002604,2026-03-23,1,Orientation,West Center,4
+JB002605,2026-03-25,1,Orientation,West Center,4
+JB002606,2026-03-04,1,Orientation,West Center,4
+JB002607,2026-03-14,1,Orientation,West Center,4
+JB002611,2026-03-05,1,Orientation,West Center,4
+JB002612,2026-03-20,1,Orientation,West Center,4
+JB002612,2026-04-21,2,Skills workshop,West Center,6
+JB002613,2026-03-06,1,Orientation,West Center,4
+JB002614,2026-03-13,1,Orientation,West Center,4
+JB002617,2026-03-16,1,Orientation,West Center,4
+JB002618,2026-03-13,1,Orientation,West Center,4
+JB002619,2026-03-19,1,Orientation,West Center,4
+JB002621,2026-03-22,1,Orientation,West Center,4
+JB002622,2026-03-23,1,Orientation,West Center,4
+JB002626,2026-03-16,1,Orientation,West Center,4
+JB002627,2026-03-18,1,Orientation,West Center,4
+JB002631,2026-03-14,1,Orientation,West Center,4
+JB002636,2026-03-12,1,Orientation,West Center,4
+JB002639,2026-03-26,1,Orientation,West Center,4
+JB002640,2026-03-12,1,Orientation,West Center,4
+JB002640,2026-04-15,2,Skills workshop,West Center,6
+JB002642,2026-03-05,1,Orientation,West Center,4
+JB002644,2026-03-03,1,Orientation,West Center,4
+JB002645,2026-03-12,1,Orientation,West Center,4
+JB002648,2026-03-05,1,Orientation,West Center,4
+JB002649,2026-03-19,1,Orientation,West Center,4
+JB002653,2026-03-23,1,Orientation,West Center,4
+JB002656,2026-03-20,1,Orientation,West Center,4
+JB002656,2026-04-24,2,Skills workshop,West Center,6
+JB002657,2026-03-23,1,Orientation,West Center,4
+JB002662,2026-03-06,1,Orientation,West Center,4
+JB002663,2026-03-10,1,Orientation,West Center,4
+JB002665,2026-03-17,1,Orientation,West Center,4
+JB002669,2026-03-10,1,Orientation,West Center,4
+JB002670,2026-03-21,1,Orientation,West Center,4
+JB002671,2026-03-15,1,Orientation,West Center,4
+JB002673,2026-03-03,1,Orientation,West Center,4
+JB002673,2026-04-24,2,Skills workshop,West Center,6
+JB002675,2026-03-22,1,Orientation,West Center,4
+JB002677,2026-03-16,1,Orientation,West Center,4
+JB002683,2026-03-09,1,Orientation,West Center,4
+JB002683,2026-04-15,2,Skills workshop,West Center,6
+JB002687,2026-03-11,1,Orientation,West Center,4
+JB002688,2026-03-16,1,Orientation,West Center,4
+JB002690,2026-03-20,1,Orientation,West Center,4
+JB002695,2026-03-11,1,Orientation,West Center,4
+JB002697,2026-03-14,1,Orientation,West Center,4
+JB002698,2026-03-15,1,Orientation,West Center,4
+JB002698,2026-04-16,2,Skills workshop,West Center,6
+JB002699,2026-03-07,1,Orientation,West Center,4
+JB002701,2026-03-22,1,Orientation,West Center,4
+JB002704,2026-03-07,1,Orientation,West Center,4
+JB002704,2026-04-15,2,Skills workshop,West Center,6
+JB002705,2026-03-13,1,Orientation,West Center,4
+JB002706,2026-03-18,1,Orientation,West Center,4
+JB002707,2026-03-25,1,Orientation,West Center,4
+JB002708,2026-03-05,1,Orientation,West Center,4
+JB002711,2026-03-09,1,Orientation,West Center,4
+JB002711,2026-04-25,2,Skills workshop,West Center,6
+JB002711,2026-05-16,3,Job placement,West Center,6
+JB002712,2026-03-14,1,Orientation,West Center,4
+JB002713,2026-03-09,1,Orientation,West Center,4
+JB002714,2026-03-06,1,Orientation,West Center,4
+JB002717,2026-03-24,1,Orientation,West Center,4
+JB002718,2026-03-11,1,Orientation,West Center,4
+JB002721,2026-03-12,1,Orientation,West Center,4
+JB002723,2026-03-16,1,Orientation,West Center,4
+JB002723,2026-04-22,2,Skills workshop,West Center,6
+JB002725,2026-03-08,1,Orientation,West Center,4
+JB002730,2026-03-15,1,Orientation,West Center,4
+JB002731,2026-03-20,1,Orientation,West Center,4
+JB002733,2026-03-25,1,Orientation,West Center,4
+JB002736,2026-03-10,1,Orientation,West Center,4
+JB002740,2026-03-15,1,Orientation,West Center,4
+JB002742,2026-03-25,1,Orientation,West Center,4
+JB002746,2026-03-26,1,Orientation,West Center,4
+JB002746,2026-04-11,2,Skills workshop,West Center,6
+JB002748,2026-03-03,1,Orientation,West Center,4
+JB002748,2026-04-15,2,Skills workshop,West Center,6
+JB002748,2026-05-12,3,Job placement,West Center,6
+JB002749,2026-03-03,1,Orientation,West Center,4
+JB002751,2026-03-16,1,Orientation,West Center,4
+JB002752,2026-03-15,1,Orientation,West Center,4
+JB002754,2026-03-21,1,Orientation,West Center,4
+JB002759,2026-03-11,1,Orientation,West Center,4
+JB002759,2026-04-13,2,Skills workshop,West Center,6
+JB002760,2026-03-16,1,Orientation,West Center,4
+JB002761,2026-03-20,1,Orientation,West Center,4
+JB002764,2026-03-19,1,Orientation,West Center,4
+JB002765,2026-03-20,1,Orientation,West Center,4
+JB002766,2026-03-21,1,Orientation,West Center,4
+JB002768,2026-03-21,1,Orientation,West Center,4
+JB002772,2026-03-17,1,Orientation,West Center,4
+JB002772,2026-04-19,2,Skills workshop,West Center,6
+JB002773,2026-03-15,1,Orientation,West Center,4
+JB002773,2026-04-06,2,Skills workshop,West Center,6
+JB002773,2026-05-12,3,Job placement,West Center,6
+JB002776,2026-03-26,1,Orientation,West Center,4
+JB002776,2026-04-07,2,Skills workshop,West Center,6
+JB002778,2026-03-13,1,Orientation,West Center,4
+JB002778,2026-04-18,2,Skills workshop,West Center,6
+JB002782,2026-03-20,1,Orientation,West Center,4
+JB002784,2026-03-04,1,Orientation,West Center,4
+JB002785,2026-03-12,1,Orientation,West Center,4
+JB002788,2026-03-10,1,Orientation,West Center,4
+JB002789,2026-03-18,1,Orientation,West Center,4
+JB002792,2026-03-21,1,Orientation,West Center,4
+JB002792,2026-04-15,2,Skills workshop,West Center,6
+JB002792,2026-05-12,3,Job placement,West Center,6
+JB002795,2026-03-25,1,Orientation,West Center,4
+JB002796,2026-03-21,1,Orientation,West Center,4
+JB002797,2026-03-08,1,Orientation,West Center,4
+JB002797,2026-04-22,2,Skills workshop,West Center,6
+JB002797,2026-05-13,3,Job placement,West Center,6
+JB002799,2026-03-26,1,Orientation,West Center,4
+JB002800,2026-03-26,1,Orientation,West Center,4
+JB002805,2026-03-05,1,Orientation,West Center,4
+JB002805,2026-04-16,2,Skills workshop,West Center,6
+JB002807,2026-03-03,1,Orientation,West Center,4
+JB002808,2026-03-13,1,Orientation,West Center,4
+JB002810,2026-03-21,1,Orientation,West Center,4
+JB002810,2026-04-17,2,Skills workshop,West Center,6
+JB002811,2026-03-16,1,Orientation,West Center,4
+JB002813,2026-03-07,1,Orientation,West Center,4
+JB002814,2026-03-06,1,Orientation,West Center,4
+JB002816,2026-03-03,1,Orientation,West Center,4
+JB002817,2026-03-16,1,Orientation,West Center,4
+JB002817,2026-04-16,2,Skills workshop,West Center,6
+JB002818,2026-03-14,1,Orientation,West Center,4
+JB002818,2026-04-10,2,Skills workshop,West Center,6
+JB002818,2026-05-07,3,Job placement,West Center,6
+JB002820,2026-03-16,1,Orientation,West Center,4
+JB002823,2026-03-05,1,Orientation,West Center,4
+JB002823,2026-04-20,2,Skills workshop,West Center,6
+JB002827,2026-03-11,1,Orientation,West Center,4
+JB002827,2026-04-19,2,Skills workshop,West Center,6
+JB002828,2026-03-05,1,Orientation,West Center,4
+JB002828,2026-04-19,2,Skills workshop,West Center,6
+JB002829,2026-03-17,1,Orientation,West Center,4
+JB002842,2026-03-24,1,Orientation,West Center,4
+JB002844,2026-03-23,1,Orientation,West Center,4
+JB002844,2026-04-11,2,Skills workshop,West Center,6
+JB002845,2026-03-09,1,Orientation,West Center,4
+JB002849,2026-03-20,1,Orientation,West Center,4
+JB002849,2026-04-04,2,Skills workshop,West Center,6
+JB002851,2026-03-08,1,Orientation,West Center,4
+JB002856,2026-03-20,1,Orientation,West Center,4
+JB002856,2026-04-03,2,Skills workshop,West Center,6
+JB002858,2026-03-04,1,Orientation,West Center,4
+JB002860,2026-03-21,1,Orientation,West Center,4
+JB002861,2026-03-21,1,Orientation,West Center,4
+JB002862,2026-03-05,1,Orientation,West Center,4
+JB002863,2026-03-20,1,Orientation,West Center,4
+JB002864,2026-03-25,1,Orientation,West Center,4
+JB002864,2026-04-03,2,Skills workshop,West Center,6
+JB002865,2026-03-06,1,Orientation,West Center,4
+JB002866,2026-03-20,1,Orientation,West Center,4
+JB002867,2026-03-18,1,Orientation,West Center,4
+JB002868,2026-03-25,1,Orientation,West Center,4
+JB002869,2026-03-09,1,Orientation,West Center,4
+JB002871,2026-03-13,1,Orientation,West Center,4
+JB002871,2026-04-07,2,Skills workshop,West Center,6
+JB002872,2026-03-14,1,Orientation,West Center,4
+JB002872,2026-04-24,2,Skills workshop,West Center,6
+JB002873,2026-03-03,1,Orientation,West Center,4
+JB002874,2026-03-18,1,Orientation,West Center,4
+JB002876,2026-03-12,1,Orientation,West Center,4
+JB002878,2026-03-25,1,Orientation,West Center,4
+JB002879,2026-03-21,1,Orientation,West Center,4
+JB002880,2026-03-18,1,Orientation,West Center,4
+JB002881,2026-03-24,1,Orientation,West Center,4
+JB002883,2026-03-07,1,Orientation,West Center,4
+JB002885,2026-03-13,1,Orientation,West Center,4
+JB002887,2026-03-24,1,Orientation,West Center,4
+JB002888,2026-03-24,1,Orientation,West Center,4
+JB002889,2026-03-19,1,Orientation,West Center,4
+JB002891,2026-03-19,1,Orientation,West Center,4
+JB002895,2026-03-05,1,Orientation,West Center,4
+JB002897,2026-03-22,1,Orientation,West Center,4
+JB002898,2026-03-24,1,Orientation,West Center,4
+JB002900,2026-03-07,1,Orientation,West Center,4
+JB002901,2026-03-19,1,Orientation,West Center,4
+JB002902,2026-03-12,1,Orientation,West Center,4
+JB002906,2026-03-23,1,Orientation,West Center,4
+JB002908,2026-03-06,1,Orientation,West Center,4
+JB002910,2026-03-06,1,Orientation,West Center,4
+JB002913,2026-03-23,1,Orientation,West Center,4
+JB002914,2026-03-23,1,Orientation,West Center,4
+JB002914,2026-04-08,2,Skills workshop,West Center,6
+JB002917,2026-03-05,1,Orientation,West Center,4
+JB002918,2026-03-22,1,Orientation,West Center,4
+JB002919,2026-03-25,1,Orientation,West Center,4
+JB002920,2026-03-12,1,Orientation,West Center,4
+JB002922,2026-03-11,1,Orientation,West Center,4
+JB002922,2026-04-17,2,Skills workshop,West Center,6
+JB002924,2026-03-17,1,Orientation,West Center,4
+JB002925,2026-03-06,1,Orientation,West Center,4
+JB002927,2026-03-07,1,Orientation,West Center,4
+JB002928,2026-03-24,1,Orientation,West Center,4
+JB002929,2026-03-25,1,Orientation,West Center,4
+JB002931,2026-03-09,1,Orientation,West Center,4
+JB002934,2026-03-21,1,Orientation,West Center,4
+JB002934,2026-04-09,2,Skills workshop,West Center,6
+JB002934,2026-05-13,3,Job placement,West Center,6
+JB002935,2026-03-22,1,Orientation,West Center,4
+JB002936,2026-03-20,1,Orientation,West Center,4
+JB002938,2026-03-10,1,Orientation,West Center,4
+JB002939,2026-03-14,1,Orientation,West Center,4
+JB002940,2026-03-20,1,Orientation,West Center,4
+JB002943,2026-03-09,1,Orientation,West Center,4
+JB002946,2026-03-17,1,Orientation,West Center,4
+JB002947,2026-03-17,1,Orientation,West Center,4
+JB002948,2026-03-18,1,Orientation,West Center,4
+JB002951,2026-03-17,1,Orientation,West Center,4
+JB002954,2026-03-20,1,Orientation,West Center,4
+JB002959,2026-03-24,1,Orientation,West Center,4
+JB002960,2026-03-20,1,Orientation,West Center,4
+JB002961,2026-03-07,1,Orientation,West Center,4
+JB002964,2026-03-22,1,Orientation,West Center,4
+JB002968,2026-03-24,1,Orientation,West Center,4
+JB002969,2026-03-09,1,Orientation,West Center,4
+JB002970,2026-03-11,1,Orientation,West Center,4
+JB002971,2026-03-13,1,Orientation,West Center,4
+JB002973,2026-03-20,1,Orientation,West Center,4
+JB002973,2026-04-19,2,Skills workshop,West Center,6
+JB002974,2026-03-19,1,Orientation,West Center,4
+JB002975,2026-03-25,1,Orientation,West Center,4
+JB002976,2026-03-14,1,Orientation,West Center,4
+JB002977,2026-03-08,1,Orientation,West Center,4
+JB002978,2026-03-26,1,Orientation,West Center,4
+JB002980,2026-03-06,1,Orientation,West Center,4
+JB002981,2026-03-19,1,Orientation,West Center,4
+JB002983,2026-03-06,1,Orientation,West Center,4
+JB002985,2026-03-19,1,Orientation,West Center,4
+JB002985,2026-04-17,2,Skills workshop,West Center,6
+JB002987,2026-03-14,1,Orientation,West Center,4
+JB002997,2026-03-06,1,Orientation,West Center,4
+JB002998,2026-03-15,1,Orientation,West Center,4
+JB002998,2026-04-23,2,Skills workshop,West Center,6
